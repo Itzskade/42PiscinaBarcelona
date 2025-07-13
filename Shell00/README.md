@@ -48,6 +48,22 @@ Cada ejercicio puede ser probado usando la terminal local o el entorno remoto 42
 - Estructura del `tar`
 
 ---
+## 📋 Estado del proyecto
+
+| 🧩 Ejercicio | Completado | Entregado | Validación |
+|--------------|------------|-----------|------------|
+| 00           | ✅ Sí      | ✅ Sí     | 100%       |
+| 01           | ✅ Sí      | ✅ Sí     | 100%       |
+| 02           | ✅ Sí      | ✅ Sí     | 100%       |
+| 03           | ✅ Sí      | ✅ Sí     | 100%       |
+| 04           | ✅ Sí      | ✅ Sí     | 100%       |
+| 05           | ✅ Sí      | ✅ Sí     | 100%       |
+| 06           | ✅ Sí      | ✅ Sí     | 100%       |
+| 07           | ✅ Sí      | ✅ Sí     | 100%       |
+| 08           | ✅ Sí      | ✅ Sí     | 100%       |
+| 09           | ✅ Sí      | ✅ Sí     | 100%       |
+
+---
 
 ## 🎉 Créditos y motivación
 
