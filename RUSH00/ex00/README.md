@@ -32,20 +32,24 @@ Este repositorio incluye las soluciones a los proyectos **Rush00**, **Rush01** y
 - La función principal debe tener esta estructura:
 
 ```
-Durante la evaluación, main.c será modificado para verificar diferentes combinaciones como rush(1, 1), rush(5, 3), rush(123, 42), etc.
+Durante la evaluación, `main.c` será modificado para verificar diferentes combinaciones como `rush(1, 1)`, `rush(5, 3)`, `rush(123, 42)`, etc.
 
-📋 Estado del proyecto
-🧩 Rush	Enlace	Completado	Entregado	Validación
-Rush00	ex00	✅ Sí	✅ Sí	100%
-Rush01	ex01	✅ Sí	✅ Sí	100%
-Rush02	ex02	✅ Sí	✅ Sí	100%
-📌 Recomendaciones
-🎯 Evalúa visualmente cada posición (x, y) para decidir qué carácter imprimir
+---
 
-🔍 Usa condiciones separadas para esquinas, bordes horizontales/verticales e interior
+## 📋 Estado del proyecto
 
-💬 Testea con valores pequeños, extremos y casos asimétricos
+| 🧩 Rush   | Enlace                                                                                       | Completado | Entregado | Validación |
+|----------|----------------------------------------------------------------------------------------------|------------|-----------|------------|
+| Rush00   | [ex00](https://github.com/Itzskade/Piscina42/tree/main/Rush00/ex00)                         | ✅ Sí      | ✅ Sí     | 100%       |
+| Rush01   | [ex01](https://github.com/Itzskade/Piscina42/tree/main/Rush01/ex01)                         | ✅ Sí      | ✅ Sí     | 100%       |
+| Rush02   | [ex02](https://github.com/Itzskade/Piscina42/tree/main/Rush02/ex02)                         | ✅ Sí      | ✅ Sí     | 100%       |
 
-✒️ Sigue las reglas de estilo desde el inicio para evitar correcciones posteriores
+---
 
-🧠 Céntrate en la lógica antes de optimizar visualmente
+## 📌 Recomendaciones
+
+- 🎯 Evalúa visualmente cada posición `(x, y)` para decidir qué carácter imprimir  
+- 🔍 Usa condiciones separadas para esquinas, bordes horizontales/verticales e interior  
+- 💬 Testea con valores pequeños, extremos y casos asimétricos  
+- ✒️ Sigue las reglas de estilo desde el inicio para evitar correcciones posteriores  
+- 🧠 Céntrate en la lógica antes de optimizar visualmente
