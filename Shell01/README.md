@@ -52,11 +52,17 @@ Este repositorio contiene todos los ejercicios del proyecto **Shell01**, parte d
 
 ## 📋 Estado del proyecto
 
-| 🧩 Ejercicio | Completado | Entregado | Validación esperada |
-|--------------|------------|-----------|----------------------|
-| 01–06        | ✅ Sí      | ✅ Sí     | 100%                 |
-| 07           | ⬜ No       | ⬜ No     | En desarrollo        |
-| 08           | ⬜ No       | ⬜ No     | En desarrollo        |
+| 🧩 Ejercicio | Enlace                                                                                       | Completado | Entregado | Validación esperada    |
+|--------------|----------------------------------------------------------------------------------------------|------------|-----------|-------------------------|
+| 01           | [ex01](https://github.com/Itzskade/Piscina42/tree/main/Shell01/ex01)                         | ✅ Sí      | ✅ Sí     | 100%                    |
+| 02           | [ex02](https://github.com/Itzskade/Piscina42/tree/main/Shell01/ex02)                         | ✅ Sí      | ✅ Sí     | 100%                    |
+| 03           | [ex03](https://github.com/Itzskade/Piscina42/tree/main/Shell01/ex03)                         | ✅ Sí      | ✅ Sí     | 100%                    |
+| 04           | [ex04](https://github.com/Itzskade/Piscina42/tree/main/Shell01/ex04)                         | ✅ Sí      | ✅ Sí     | 100%                    |
+| 05           | [ex05](https://github.com/Itzskade/Piscina42/tree/main/Shell01/ex05)                         | ✅ Sí      | ✅ Sí     | 100%                    |
+| 06           | [ex06](https://github.com/Itzskade/Piscina42/tree/main/Shell01/ex06)                         | ✅ Sí      | ✅ Sí     | 100%                    |
+| 07           | _(sin contenido aún)_                                                                         | ⬜ No       | ⬜ No     | No desarrollado         |
+| 08           | _(sin contenido aún)_                                                                         | ⬜ No       | ⬜ No     | No desarrollado         |
+
 
 ---
 
