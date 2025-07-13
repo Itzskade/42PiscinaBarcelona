@@ -103,8 +103,4 @@ Basado en mi vivencia en **42 Barcelona**, estos son algunos de los factores que
 
 - ✅ Completar la Piscina  
 - ✅ Documentar todos los ejercicios y proyectos  
-- 🟨 Reforzar y revisar los Rushes  
-- 🟩 Configurar entorno Linux para estudios futuros  
-- 🟩 Iniciar el **Cadet Program** como estudiante oficial  
-
 ---
