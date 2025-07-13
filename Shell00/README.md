@@ -1,4 +1,4 @@
-# 🐚 C Piscine Shell00 – README
+# 🐚 C Piscine Shell00
 
 ## 📦 Estructura del proyecto
 
