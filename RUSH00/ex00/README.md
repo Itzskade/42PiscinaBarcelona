@@ -1,5 +1,4 @@
-# 📐 Proyecto RUSH – Piscina 42 Barcelona 🇪🇸 | Julio 2025
-
+# 📐 Proyecto RUSH
 Este repositorio incluye las soluciones a los proyectos **Rush00**, **Rush01** y **Rush02**, desarrollados como parte del programa intensivo de la Piscina C. Cada Rush consiste en implementar una función `rush(x, y)` que imprime en pantalla una figura rectangular de tamaño `x` por `y` usando un patrón de caracteres distinto según el número del Rush.
 
 ---
