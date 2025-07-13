@@ -50,8 +50,6 @@ Cada ejercicio puede ser probado usando la terminal local o el entorno remoto 42
 ---
 ## 📋 Estado del proyecto
 
-## 📋 Estado del proyecto
-
 | Ejercicio | Enlace                                                                                       | Completado | Entregado | Validación |
 |-----------|----------------------------------------------------------------------------------------------|------------|-----------|------------|
 | 00        | [ex00](https://github.com/Itzskade/Piscina42/tree/main/Shell00/ex00)                         | ✅ Sí      | ✅ Sí     | 100%       |
