@@ -52,7 +52,7 @@ Cada ejercicio puede ser probado usando la terminal local o el entorno remoto 42
 
 | 🧩 Ejercicio | Completado | Entregado | Validación |
 |--------------|------------|-----------|------------|
-| 00           | ✅ Sí      | ✅ Sí     | 100%       |
+| 00 [https://github.com/Itzskade/Piscina42/tree/main/Shell00/ex00]          | ✅ Sí      | ✅ Sí     | 100%       |
 | 01           | ✅ Sí      | ✅ Sí     | 100%       |
 | 02           | ✅ Sí      | ✅ Sí     | 100%       |
 | 03           | ✅ Sí      | ✅ Sí     | 100%       |
