@@ -31,12 +31,7 @@ Este repositorio incluye las soluciones a los proyectos **Rush00**, **Rush01** y
 - El código debe cumplir con las normas de Norminette  
 - La función principal debe tener esta estructura:
 
-```c
-int main(void)
-{
-    rush(5, 5);
-    return (0);
-}
+```
 Durante la evaluación, main.c será modificado para verificar diferentes combinaciones como rush(1, 1), rush(5, 3), rush(123, 42), etc.
 
 📋 Estado del proyecto
