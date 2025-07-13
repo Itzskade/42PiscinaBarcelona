@@ -17,7 +17,7 @@ Este repositorio incluye las soluciones a los proyectos **Rush00**, **Rush01** y
 
 | Rush   | Descripción                               | Directorio | Archivos entregables                      |
 |--------|-------------------------------------------|------------|-------------------------------------------|
-| Rush00 | Dibujar un rectángulo con `o`, `-`,`||`   | ex00/      | `main.c`, `ft_putchar.c`, `rush00.c`      |
+| Rush00 | Dibujar un rectángulo con `o`, `-`,`\|`   | ex00/      | `main.c`, `ft_putchar.c`, `rush00.c`      |
 | Rush01 | Rectángulo con `/`, `\`, `*`              | ex01/      | `main.c`, `ft_putchar.c`, `rush01.c`      |
 | Rush02 | Rectángulo con `A`, `B`, `C`              | ex02/      | `main.c`, `ft_putchar.c`, `rush02.c`      |
 
