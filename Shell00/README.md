@@ -50,18 +50,20 @@ Cada ejercicio puede ser probado usando la terminal local o el entorno remoto 42
 ---
 ## 📋 Estado del proyecto
 
-| 🧩 Ejercicio | Completado | Entregado | Validación |
-|--------------|------------|-----------|------------|
-| 00 [https://github.com/Itzskade/Piscina42/tree/main/Shell00/ex00]          | ✅ Sí      | ✅ Sí     | 100%       |
-| 01           | ✅ Sí      | ✅ Sí     | 100%       |
-| 02           | ✅ Sí      | ✅ Sí     | 100%       |
-| 03           | ✅ Sí      | ✅ Sí     | 100%       |
-| 04           | ✅ Sí      | ✅ Sí     | 100%       |
-| 05           | ✅ Sí      | ✅ Sí     | 100%       |
-| 06           | ✅ Sí      | ✅ Sí     | 100%       |
-| 07           | ✅ Sí      | ✅ Sí     | 100%       |
-| 08           | ✅ Sí      | ✅ Sí     | 100%       |
-| 09           | ✅ Sí      | ✅ Sí     | 100%       |
+## 📋 Estado del proyecto
+
+| Ejercicio | Enlace                                                                                       | Completado | Entregado | Validación |
+|-----------|----------------------------------------------------------------------------------------------|------------|-----------|------------|
+| 00        | [ex00](https://github.com/Itzskade/Piscina42/tree/main/Shell00/ex00)                         | ✅ Sí      | ✅ Sí     | 100%       |
+| 01        | [ex01](https://github.com/Itzskade/Piscina42/tree/main/Shell00/ex01)                         | ✅ Sí      | ✅ Sí     | 100%       |
+| 02        | [ex02](https://github.com/Itzskade/Piscina42/tree/main/Shell00/ex02)                         | ✅ Sí      | ✅ Sí     | 100%       |
+| 03        | [ex03](https://github.com/Itzskade/Piscina42/tree/main/Shell00/ex03)                         | ✅ Sí      | ✅ Sí     | 100%       |
+| 04        | [ex04](https://github.com/Itzskade/Piscina42/tree/main/Shell00/ex04)                         | ✅ Sí      | ✅ Sí     | 100%       |
+| 05        | [ex05](https://github.com/Itzskade/Piscina42/tree/main/Shell00/ex05)                         | ✅ Sí      | ✅ Sí     | 100%       |
+| 06        | [ex06](https://github.com/Itzskade/Piscina42/tree/main/Shell00/ex06)                         | ✅ Sí      | ✅ Sí     | 100%       |
+| 07        | [ex07](https://github.com/Itzskade/Piscina42/tree/main/Shell00/ex07)                         | ✅ Sí      | ✅ Sí     | 100%       |
+| 08        | [ex08](https://github.com/Itzskade/Piscina42/tree/main/Shell00/ex08)                         | ✅ Sí      | ✅ Sí     | 100%       |
+| 09        | [ex09](https://github.com/Itzskade/Piscina42/tree/main/Shell00/ex09)                         | ✅ Sí      | ✅ Sí     | 100%       |
 
 ---
 
