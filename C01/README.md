@@ -74,4 +74,5 @@ Este proyecto es parte del proceso de aprendizaje en la Piscine 42 y se entrega 
 ## 🙋 Autor
 
 Desarrollado como parte del reto intensivo de programación en lenguaje C durante la Piscine 42.
+
 📧 Contacto: [rmarin-n@student.42barcelona.com](mailto:rmarin-n@student.42barcelona.com)
