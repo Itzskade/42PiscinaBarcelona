@@ -42,18 +42,23 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 
 ## 🧪 Consejos para testeo
 
-Prueba tus funciones con valores límite y negativos
-Asegúrate de liberar memoria si la función lo requiere (aunque no lo aplican en este proyecto)
-Verifica salida esperada usando echo $? o valgrind cuando sea relevante
+Prueba tus funciones con valores límite y negativos.
+
+Asegúrate de liberar memoria si la función lo requiere (aunque no lo aplican en este proyecto).
+
+Verifica salida esperada usando echo $? o valgrind cuando sea relevante.
 
 ---
 
 ## 📐 Normas de estilo
 
-Usa tabs para sangrado, no espacios
-Nombres coherentes y descriptivos
-Sin funciones externas, excepto write donde esté permitido
-Estructura clara en cada función
+Usa tabs para sangrado, no espacios.
+
+Nombres coherentes y descriptivos.
+
+Sin funciones externas, excepto write donde esté permitido.
+
+Estructura clara en cada función.
 
 ---
 
