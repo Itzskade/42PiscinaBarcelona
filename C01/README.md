@@ -68,7 +68,9 @@ Estructura clara en cada función
 
 ## 📜 Licencia
 
-Este proyecto es parte del proceso de aprendizaje en la Piscine 42 y se entrega con fines educativos. Puedes reutilizar el código con fines personales o como referencia.
+Este proyecto es parte del proceso de aprendizaje en la Piscine 42 y se entrega con fines educativos. 
+
+Puedes reutilizar el código con fines personales o como referencia.
 
 ---
 ## 🙋 Autor
