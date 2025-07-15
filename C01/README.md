@@ -40,31 +40,27 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 ```
 
 ## 🧪 Consejos para testeo
+
 Prueba tus funciones con valores límite y negativos
-
 Asegúrate de liberar memoria si la función lo requiere (aunque no lo aplican en este proyecto)
-
 Verifica salida esperada usando echo $? o valgrind cuando sea relevante
 
 ## 📐 Normas de estilo
+
 Usa tabs para sangrado, no espacios
-
 Nombres coherentes y descriptivos
-
 Sin funciones externas, excepto write donde esté permitido
-
 Estructura clara en cada función
 
 ## 📌 Recomendaciones
+
 🔄 Haz commits frecuentes y bien comentados
-
 📖 Usa man para comprender el comportamiento de funciones C
-
 🧪 Testea en profundidad antes de entregar
-
 💬 Pregunta, colabora, y participa activamente en tu grupo de estudio
 
 ## 📜 Licencia
+
 Este proyecto es parte del proceso de aprendizaje en la Piscine 42 y se entrega con fines educativos. Puedes reutilizar el código con fines personales o como referencia.
 
 ## 🙋 Autor
