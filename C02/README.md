@@ -17,19 +17,22 @@ Respetar el estilo Norminette de 42
 ---
 
 ## 📁 Tabla de ejercicios
-Ejercicio	Descripción	Directorio	Archivo entregable
-01	Reproduce strncpy	ex01/	ft_strncpy.c
-02	Verifica si un string contiene solo caracteres alfabéticos	ex02/	ft_str_is_alpha.c
-03	Verifica si un string contiene solo dígitos	ex03/	ft_str_is_numeric.c
-04	Verifica si un string contiene solo letras minúsculas	ex04/	ft_str_is_lowercase.c
-05	Verifica si un string contiene solo letras mayúsculas	ex05/	ft_str_is_uppercase.c
-06	Verifica si un string contiene solo caracteres imprimibles	ex06/	ft_str_is_printable.c
-07	Convierte todas las letras de un string a mayúsculas	ex07/	ft_strupcase.c
-08	Convierte todas las letras de un string a minúsculas	ex08/	ft_strlowcase.c
-09	Capitaliza cada palabra de un string	ex09/	ft_strcapitalize.c
-10	Reproduce strlcpy	ex10/	ft_strlcpy.c
-11	Muestra un string, reemplazando caracteres no imprimibles por hexadecimales	ex11/	ft_putstr_non_printable.c
-12	Muestra una región de memoria en formato hexadecimal	ex12/	ft_print_memory.c
+
+| Ejercicio | Descripción                                                                 | Directorio | Archivo entregable             |
+|----------:|------------------------------------------------------------------------------|------------|--------------------------------|
+| 01        | Reproduce `strncpy`                                                         | ex01/      | ft_strncpy.c                   |
+| 02        | Verifica si un string contiene solo caracteres alfabéticos                  | ex02/      | ft_str_is_alpha.c              |
+| 03        | Verifica si un string contiene solo dígitos                                 | ex03/      | ft_str_is_numeric.c            |
+| 04        | Verifica si un string contiene solo letras minúsculas                       | ex04/      | ft_str_is_lowercase.c          |
+| 05        | Verifica si un string contiene solo letras mayúsculas                       | ex05/      | ft_str_is_uppercase.c          |
+| 06        | Verifica si un string contiene solo caracteres imprimibles                  | ex06/      | ft_str_is_printable.c          |
+| 07        | Convierte todas las letras de un string a mayúsculas                        | ex07/      | ft_strupcase.c                 |
+| 08        | Convierte todas las letras de un string a minúsculas                        | ex08/      | ft_strlowcase.c                |
+| 09        | Capitaliza cada palabra de un string                                        | ex09/      | ft_strcapitalize.c             |
+| 10        | Reproduce `strlcpy`                                                         | ex10/      | ft_strlcpy.c                   |
+| 11        | Muestra un string, reemplazando caracteres no imprimibles por hexadecimales | ex11/      | ft_putstr_non_printable.c      |
+| 12        | Muestra una región de memoria en formato hexadecimal                        | ex12/      | ft_print_memory.c              |
+
 
 ---
 
