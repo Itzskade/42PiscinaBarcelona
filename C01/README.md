@@ -40,6 +40,23 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 ```
 ---
 
+## 📋 Estado del proyecto
+
+| 🧩 Ejercicio | Enlace                                                                                       | Completado | Entregado | Validación |
+|--------------|----------------------------------------------------------------------------------------------|------------|-----------|------------|
+| 00           | [ex00](https://github.com/Itzskade/Piscina42/tree/main/C01/ex00)                             | ✅ Sí      | ✅ Sí     | 100%       |
+| 01           | [ex01](https://github.com/Itzskade/Piscina42/tree/main/C01/ex01)                             | ✅ Sí      | ✅ Sí     | 100%       |
+| 02           | [ex02](https://github.com/Itzskade/Piscina42/tree/main/C01/ex02)                             | ✅ Sí      | ✅ Sí     | 100%       |
+| 03           | [ex03](https://github.com/Itzskade/Piscina42/tree/main/C01/ex03)                             | ✅ Sí      | ✅ Sí     | 100%       |
+| 04           | [ex04](https://github.com/Itzskade/Piscina42/tree/main/C01/ex04)                             | ✅ Sí      | ✅ Sí     | 100%       |
+| 05           | [ex05](https://github.com/Itzskade/Piscina42/tree/main/C01/ex05)                             | ✅ Sí      | ✅ Sí     | 100%       |
+| 06           | [ex06](https://github.com/Itzskade/Piscina42/tree/main/C01/ex06)                             | ✅ Sí      | ✅ Sí     | 100%       |
+| 07           | [ex07](https://github.com/Itzskade/Piscina42/tree/main/C01/ex07)                             | ✅ Sí      | ✅ Sí     | 100%       |
+| 08           | [ex08](https://github.com/Itzskade/Piscina42/tree/main/C01/ex08)                             | ✅ Sí      | ✅ Sí     | 100%       |
+| 09           | [ex09](https://github.com/Itzskade/Piscina42/tree/main/C01/ex09)                             | ✅ Sí      | ✅ Sí     | 100%       |
+
+---
+
 ## 🧪 Consejos para testeo
 
 Prueba tus funciones con valores límite y negativos.
