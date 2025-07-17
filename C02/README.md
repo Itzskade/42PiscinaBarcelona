@@ -63,16 +63,26 @@ Estructura clara y legible en cada función.
 ---
 
 ## 📌 Recomendaciones
-🔄 Haz commits frecuentes y bien comentados 📖 Usa man para comprender el comportamiento de funciones C 🧪 Testea en profundidad antes de entregar 💬 Colabora y participa activamente en tu grupo de estudio
+🔄 Haz commits frecuentes y bien comentados.
+
+📖 Usa man para comprender el comportamiento de funciones C.
+
+🧪 Testea en profundidad antes de entregar.
+
+💬 Colabora y participa activamente en tu grupo de estudio.
 
 ---
 
 ## 📜 Licencia
-Este proyecto forma parte del proceso de aprendizaje en la Piscine 42 y se entrega con fines educativos. Puedes reutilizar el código con fines personales o como referencia.
+Este proyecto forma parte del proceso de aprendizaje en la Piscine 42 y se entrega con fines educativos. 
+
+Puedes reutilizar el código con fines personales o como referencia.
 
 ---
 
 ## 🙋 Autor
-Desarrollado como parte del reto intensivo de programación en lenguaje C durante la Piscine 42. 📧 Contacto: rmarin-n@student.42barcelona.com
+Desarrollado como parte del reto intensivo de programación en lenguaje C durante la Piscine 42.
+
+📧 Contacto: rmarin-n@student.42barcelona.com
 
 ---
