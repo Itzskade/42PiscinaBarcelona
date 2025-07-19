@@ -1,4 +1,5 @@
 #include <stdlib.h>
+#include <unistd.h>
 #include "skyscraper.h"
 
 int	parse_input(char *str, int *clues)
