@@ -34,7 +34,10 @@ int	main(int argc, char **argv)
 	}
 	init_grid(grid);
 	if (solve(grid, 0, 0, clue))
+	{
 		print_grid(grid);
+		write(1, "Puzzle completed\n", 17);
+	}
 	else
 		write_error();
 	i = 0;
