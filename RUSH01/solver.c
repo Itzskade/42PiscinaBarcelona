@@ -1,6 +1,3 @@
-/*Algoritmo de resolución*/
-
-// 1. Función auxiliar base
 int	count_visible (int line[4])
 {
 	int	i;
@@ -22,7 +19,6 @@ int	count_visible (int line[4])
 	return (visible);
 }
 
-// 2. Lógica de validación general
 int	check_views(int **grid, int *clues)
 {
 	if (!check_row_left(grid, clues))
@@ -36,7 +32,6 @@ int	check_views(int **grid, int *clues)
 	return 1;
 }
 
-// 3. Verifica si el tablero está completo y cumple las pistas
 int	is_valid_grid(int **grid, int *clues)
 {
 	int	row;
@@ -57,7 +52,6 @@ int	is_valid_grid(int **grid, int *clues)
 	return check_views(grid, clues);
 }
 
-// 4. Verifica si se puede colocar un número sin repetir en fila o columna
 int	is_safe(int **grid, int row, int col, int num)
 {
 	int	i; 
@@ -72,7 +66,6 @@ int	is_safe(int **grid, int row, int col, int num)
 	return 1;
 }
 
-// 5. Algoritmo de resolución con backtracking
 int	solve(int **grid, int row, int col, int *clues)
 {
 	int num;
