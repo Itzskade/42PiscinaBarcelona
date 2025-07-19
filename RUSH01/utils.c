@@ -5,7 +5,7 @@ void	ft_putchar(char c)
 	write(1, &c, 1);
 }
 
-void	init_grid(int grid[4][4])
+void	init_grid(int **grid)
 {
 	int	row;
 	int	col;
@@ -23,7 +23,7 @@ void	init_grid(int grid[4][4])
 	}
 }
 
-void    print_grid(int grid[4][4])
+void    print_grid(int **grid)
 {
 	int	row;
 	int	col;
@@ -45,3 +45,6 @@ void    print_grid(int grid[4][4])
 }
 
 void	write_error(void)
+{
+	write(1, "Error\n", 6);
+}
