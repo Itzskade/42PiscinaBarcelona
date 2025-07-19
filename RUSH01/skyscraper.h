@@ -17,7 +17,7 @@ int     check_col_up(int **grid, int *clues);
 int     check_col_down(int **grid, int *clues);
 
 /* solver.c */
-int     count_visible(int line[4]);
+int     count_visible(int *line);
 int     check_views(int **grid, int *clues);
 int     is_valid_grid(int **grid, int *clues);
 int     is_safe(int **grid, int row, int col, int num);
