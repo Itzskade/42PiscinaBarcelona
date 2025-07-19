@@ -8,15 +8,14 @@ Izquierda	    8  a 11
 Derecha		    12 a 15
 */
 
-#include <unistd.h>
+#include "utils.h"
 
 int count_visible(int *line);
 
 int check_row_left(int **grid, int *clues)
 {
-    int row = 0, col;
+    int row = 0, col, visible;
     int line[4];
-    int visible;
 
     while (row < 4)
     {
@@ -29,7 +28,7 @@ int check_row_left(int **grid, int *clues)
         visible = count_visible(line);
         if (visible != clues[8 + row])
         {
-            write(1, "Error\n", 6);
+            write_error();
             return 0;
         }
         row++;
@@ -39,9 +38,8 @@ int check_row_left(int **grid, int *clues)
 
 int check_row_right(int **grid, int *clues)
 {
-    int row = 0, col;
+    int row = 0, col, visible;
     int line[4];
-    int visible;
 
     while (row < 4)
     {
@@ -54,7 +52,7 @@ int check_row_right(int **grid, int *clues)
         visible = count_visible(line);
         if (visible != clues[12 + row])
         {
-            write(1, "Error\n", 6);
+            write_error();
             return 0;
         }
         row++;
@@ -64,9 +62,8 @@ int check_row_right(int **grid, int *clues)
 
 int check_col_up(int **grid, int *clues)
 {
-    int col = 0, row;
+    int col = 0, row, visible;
     int line[4];
-    int visible;
 
     while (col < 4)
     {
@@ -79,7 +76,7 @@ int check_col_up(int **grid, int *clues)
         visible = count_visible(line);
         if (visible != clues[col])
         {
-            write(1, "Error\n", 6);
+            write_error();
             return 0;
         }
         col++;
@@ -89,9 +86,8 @@ int check_col_up(int **grid, int *clues)
 
 int check_col_down(int **grid, int *clues)
 {
-    int col = 0, row;
+    int col = 0, row, visible;
     int line[4];
-    int visible;
 
     while (col < 4)
     {
@@ -104,7 +100,7 @@ int check_col_down(int **grid, int *clues)
         visible = count_visible(line);
         if (visible != clues[4 + col])
         {
-            write(1, "Error\n", 6);
+            write_error();
             return 0;
         }
         col++;
