@@ -1,5 +1,7 @@
 /*Entrada del programa*/
 
+#include "utils.h"
+
 int	main(int argc, char **argv)
 {	
 	int	clue[16];
