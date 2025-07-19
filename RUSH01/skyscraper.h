@@ -7,7 +7,7 @@ void    print_grid(int **grid);
 void    write_error(void);
 void    init_grid(int **grid);
 
-/* input.c */
+/* main.c */
 int     parse_input(char *str, int *clues);
 
 /* check.c */
