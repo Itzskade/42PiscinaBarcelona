@@ -7,6 +7,7 @@ Right		    12 to 15
 */
 
 #include "skyscraper.h"
+#include <unistd.h>
 
 int count_visible(int *line);
 
