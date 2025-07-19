@@ -1,4 +1,4 @@
-/*Funciones auxiliares*/
+#include "skyscraper.h"
 
 void	ft_putchar(char c)
 {
