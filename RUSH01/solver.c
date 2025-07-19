@@ -1,3 +1,5 @@
+#include "skyscraper.h"
+
 int	count_visible (int line[4])
 {
 	int	i;
