@@ -1,6 +1,6 @@
 #include "skyscraper.h"
 
-int	count_visible (int *line)
+int	count_visible(int *line)
 {
 	int	i;
     	int	max_height;
