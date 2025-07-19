@@ -1,12 +1,12 @@
 /*Procesa la entrada y valida las pistas*/
 
-int	parse_input(char *str, int *clues)
+int parse_input(char *str, int *clues)
 {
 	int	i;
 	int	value;
 
 	i = 0;
-	while(*str)
+	while (*str)
 	{
 		while (*str == ' ')
 			str++;
@@ -14,9 +14,15 @@ int	parse_input(char *str, int *clues)
 		{
 			value = *str - '0';
 			clues[i] = value;
-			str++;
 			i++;
-		} 
+			str++;
+		}
+		else if (*str != '\0')
+		{
+			return 0;
+		}
 	}
-	return (i == 16);
+	if (i != 16)
+		return 0;
+	return 1;
 }
