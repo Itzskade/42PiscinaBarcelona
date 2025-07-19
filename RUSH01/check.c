@@ -1,14 +1,12 @@
-// Verifica visibilidad según pistas
 /*
-
-Dirección	Índices en clues[]
-Arriba		    0  a 3
-Abajo		    4  a 7
-Izquierda	    8  a 11
-Derecha		    12 a 15
+Direction	    Index in clues[]
+Up		        0  to 3
+Down		    4  to 7
+Left	        8  to 11
+Right		    12 to 15
 */
 
-#include "utils.h"
+#include "skyscraper.h"
 
 int count_visible(int *line);
 
