@@ -2,7 +2,7 @@
 #include <unistd.h>
 #include "skyscraper.h"
 
-int     read_clues(char *str, int *clues)
+int     parse_input(char *str, int *clues)
 {
     int     i;
     int     value;
@@ -31,7 +31,7 @@ int     main(int argc, char **argv)
     int     clue[16];
     int     **grid;
 
-    if (argc != 2 || !read_clues(argv[1], clue))
+    if (argc != 2 || !parse_input(argv[1], clue))
         return (write_error(), 1);
     if (!init_grid(&grid))
         return (1);
