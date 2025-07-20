@@ -64,10 +64,7 @@ int	main(int argc, char **argv)
     if (!init_matrix(&grid))
         return (1);
     if (solve(grid, 0, 0, clue))
-    {
         print_grid(grid);
-        write(1, "Puzzle completed\n", 17);
-    }
     else
         write_error();
     free_matrix(grid, 4);
