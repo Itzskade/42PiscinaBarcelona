@@ -79,22 +79,30 @@ int is_safe(int **grid, int row, int col, int num)
 int solve(int **grid, int row, int col, int *clues)
 {
     int num;
+    int res;
 
     if (row == 4)
-        return (is_valid_grid(grid, clues));
+    {
+        res = is_valid_grid(grid, clues);
+        return res;
+    }
     if (col == 4)
-        return (solve(grid, row + 1, 0, clues));
+    {
+        res = solve(grid, row + 1, 0, clues);
+        return res;
+    }
     num = 1;
     while (num <= 4)
     {
         if (is_safe(grid, row, col, num))
         {
             grid[row][col] = num;
-            if (solve(grid, row, col + 1, clues))
-                return (1);
+            res = solve(grid, row, col + 1, clues);
+            if (res == 1)
+                return 1;
             grid[row][col] = 0;
         }
         num++;
     }
-    return (0);
+    return 0;
 }
