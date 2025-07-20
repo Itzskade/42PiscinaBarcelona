@@ -1,8 +1,8 @@
 /*
 Direction	    Index in clues[]
 Up		       0  to 3
-Down		       4  to 7
-Left	             8  to 11
+Down		    4  to 7
+Left	            8  to 11
 Right		    12 to 15
 */
 
