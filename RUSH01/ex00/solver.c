@@ -36,7 +36,10 @@ int 	validate_line(int *line, int clue)
     if (clue == 0)	
         return (1);
     count = count_visible(line);
-    return (count == clue);
+    if (count == clue)
+        return (1);
+    else
+        return (0);
 }
 
 int is_valid_grid(int **grid, int *clues)
