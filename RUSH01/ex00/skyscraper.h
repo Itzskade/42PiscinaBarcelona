@@ -4,7 +4,6 @@
 /* utils.c */
 void    ft_putchar(char c);
 void    write_error(void);
-int     validate_line(int *line, int clue);
 
 /*grid.c*/
 int     init_grid(int ***grid);
@@ -23,6 +22,7 @@ int     check_views(int **grid, int *clues);
 
 /* solver.c */
 int     count_visible(int *line);
+int     validate_line(int *line, int clue);
 int     is_valid_grid(int **grid, int *clues);
 int     is_safe(int **grid, int row, int col, int num);
 int     solve(int **grid, int row, int col, int *clues);
