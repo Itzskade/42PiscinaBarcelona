@@ -6,19 +6,22 @@ void    ft_putchar(char c);
 void    print_grid(int **grid);
 void    write_error(void);
 void    init_grid(int **grid);
+int     validate_line(int *line, int clue);
 
 /* main.c */
 int     parse_input(char *str, int *clues);
+int     init_matrix(int ***grid);
+void    free_matrix(int **grid, int limit);
 
 /* check.c */
 int     check_row_left(int **grid, int *clues);
 int     check_row_right(int **grid, int *clues);
 int     check_col_up(int **grid, int *clues);
 int     check_col_down(int **grid, int *clues);
+int     check_views(int **grid, int *clues);
 
 /* solver.c */
 int     count_visible(int *line);
-int     check_views(int **grid, int *clues);
 int     is_valid_grid(int **grid, int *clues);
 int     is_safe(int **grid, int row, int col, int num);
 int     solve(int **grid, int row, int col, int *clues);
