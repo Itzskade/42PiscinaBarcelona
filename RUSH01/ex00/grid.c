@@ -9,7 +9,10 @@ int     init_grid(int ***grid)
 
     *grid = malloc(4 * sizeof(int *));
     if (!*grid)
-        return (write_error(), 0);
+    {
+        write_error();
+        return (0);
+    }
     row = -1;
     while (++row < 4)
     {
