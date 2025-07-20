@@ -1,6 +1,6 @@
 1️⃣ main.c → Inicio del programa
  └─ Comprueba que el usuario introdujo 1 solo argumento
- └─ Llama a read_clues(...) → valida y extrae las 16 pistas del string
+ └─ Llama a parse_input(...) → valida y extrae las 16 pistas del string
 
 2️⃣ grid.c → Preparación del tablero
  └─ init_grid(...) → reserva memoria para grid[4][4] e inicializa con ceros
@@ -40,7 +40,7 @@
 
 1️⃣ main.c → Program starts here
  └─ Verifies that only one input argument was provided
- └─ Calls read_clues(...) → checks and extracts the 16 clues from the input string
+ └─ Calls parse_input(...) → checks and extracts the 16 clues from the input string
 
 2️⃣ grid.c → Sets up the board
  └─ init_grid(...) → allocates memory for grid[4][4] and initializes it to zeros
