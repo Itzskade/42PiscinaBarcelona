@@ -17,7 +17,7 @@
      ├─ check_row_right(...)   → compara vista desde la derecha
      ├─ check_col_up(...)      → compara vista desde arriba
      └─ check_col_down(...)    → compara vista desde abajo
-         └─ cada función extrae una línea y llama a validate_line(...) (de utils.c)
+         └─ cada función extrae una línea y llama a validate_line(...) (de solver.c)
 
 5️⃣ solver.c → count_visible(...) se usa para calcular cuántos edificios se ven desde un lado
 
@@ -57,7 +57,7 @@
      ├─ check_row_right(...)   → validates right-to-left view on each row
      ├─ check_col_up(...)      → validates top-down view on each column
      └─ check_col_down(...)    → validates bottom-up view on each column
-         └─ Each function builds a line and calls validate_line(...) from utils.c
+         └─ Each function builds a line and calls validate_line(...) from solver.c
 
 5️⃣ solver.c → count_visible(...) calculates how many buildings are visible in a line
 
