@@ -11,7 +11,7 @@ void    print_grid(int **grid);
 void    free_grid(int **grid, int limit);
 
 /* main.c */
-int     read_clues(char *str, int *clues);
+int     parse_input(char *str, int *clues);
 
 /* check.c */
 int     check_row_left(int **grid, int *clues);
