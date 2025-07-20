@@ -1,6 +1,6 @@
 1️⃣ main.c → Inicio del programa
  └─ Comprueba que el usuario introdujo 1 solo argumento
- └─ Llama a parse_input(...) → valida y extrae las 16 pistas del string
+ └─ Llama a read_clues(...) → valida y extrae las 16 pistas del string
 
 2️⃣ grid.c → Preparación del tablero
  └─ init_grid(...) → reserva memoria para grid[4][4] e inicializa con ceros
