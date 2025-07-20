@@ -1,0 +1,74 @@
+1️⃣ main.c → Inicio del programa
+ └─ Comprueba que el usuario introdujo 1 solo argumento
+ └─ Llama a parse_input(...) → valida y extrae las 16 pistas del string
+
+2️⃣ grid.c → Preparación del tablero
+ └─ init_grid(...) → reserva memoria para grid[4][4] e inicializa con ceros
+
+3️⃣ solver.c → Resolución del puzzle por backtracking
+ └─ solve(...) → recorre celda por celda probando valores
+     └─ is_safe(...) → verifica si el número propuesto no está repetido
+     └─ is_valid_grid(...) → comprueba si el grid cumple las pistas
+         └─ check_views(...) → función clave que usa check.c
+
+4️⃣ check.c → Verificación de las pistas
+ └─ check_views(...) llama a:
+     ├─ check_row_left(...)    → compara vista desde la izquierda
+     ├─ check_row_right(...)   → compara vista desde la derecha
+     ├─ check_col_up(...)      → compara vista desde arriba
+     └─ check_col_down(...)    → compara vista desde abajo
+         └─ cada función extrae una línea y llama a validate_line(...) (de utils.c)
+
+5️⃣ solver.c → count_visible(...) se usa para calcular cuántos edificios se ven desde un lado
+
+6️⃣ grid.c → Visualización del resultado
+ └─ print_grid(...) → imprime el tablero resuelto si la solución es válida
+
+7️⃣ utils.c → Manejo de errores y salida
+ ├─ write_error(...) → imprime “Error” si algo falla
+ └─ ft_putchar(...) → se usa en print_grid para imprimir cada número
+
+8️⃣ grid.c → Liberación de memoria
+ └─ free_grid(...) → libera todo el tablero dinámico
+
+✅ Fin del programa: muestra el resultado si hay solución, o "Error" si no
+
+
+
+/////////////////////////////////////////////////////////////////////////////
+
+
+1️⃣ main.c → Program starts here
+ └─ Verifies that only one input argument was provided
+ └─ Calls parse_input(...) → checks and extracts the 16 clues from the input string
+
+2️⃣ grid.c → Sets up the board
+ └─ init_grid(...) → allocates memory for grid[4][4] and initializes it to zeros
+
+3️⃣ solver.c → Solves the puzzle using backtracking
+ └─ solve(...) → recursively tries numbers in each cell
+     └─ is_safe(...) → ensures no repeated number in row/column
+     └─ is_valid_grid(...) → checks whether the current grid satisfies the clues
+         └─ check_views(...) → delegates verification to functions in check.c
+
+4️⃣ check.c → Verifies visibility clues on all sides
+ └─ check_views(...) calls:
+     ├─ check_row_left(...)    → validates left-to-right view on each row
+     ├─ check_row_right(...)   → validates right-to-left view on each row
+     ├─ check_col_up(...)      → validates top-down view on each column
+     └─ check_col_down(...)    → validates bottom-up view on each column
+         └─ Each function builds a line and calls validate_line(...) from utils.c
+
+5️⃣ solver.c → count_visible(...) calculates how many buildings are visible in a line
+
+6️⃣ grid.c → Prints the final result
+ └─ print_grid(...) → displays the solution on the screen
+
+7️⃣ utils.c → Error handling and output
+ ├─ write_error(...) → prints "Error" if something goes wrong
+ └─ ft_putchar(...) → used by print_grid to print each number
+
+8️⃣ grid.c → Frees allocated memory
+ └─ free_grid(...) → safely releases all grid memory
+
+✅ End of program: prints solution if successful, or "Error" if invalid or unsolvable
