@@ -17,11 +17,11 @@ void	rush(int x, int y)
 	int	col;
 	int	row;
 
-	row = 1;
-	while (row <= y)
+	row = 0;
+	while (++row <= y)
 	{
-		col = 1;
-		while (col <= x)
+		col = 0;
+		while (++col <= x)
 		{
 			if ((col == 1 && row == 1) || (col == x && row == 1)
 				|| (col == 1 && row == y) || (col == x && row == y))
@@ -32,9 +32,7 @@ void	rush(int x, int y)
 				ft_putchar('|');
 			else
 				ft_putchar(' ');
-			col++;
 		}
 		ft_putchar('\n');
-		row++;
 	}
 }
