@@ -1,6 +1,8 @@
 # 💡 Proyecto C05
 
-Este repositorio contiene los ejercicios del proyecto C05, enfocados en operaciones matemáticas y recursivas en lenguaje C. Aprenderás a implementar funciones como factoriales, potencias, sucesiones y algoritmos clásicos como detección de primos y resolución de problemas combinatorios.
+Este repositorio contiene los ejercicios del proyecto C05, enfocados en operaciones matemáticas y recursivas en lenguaje C. 
+
+Aprenderás a implementar funciones como factoriales, potencias, sucesiones y algoritmos clásicos como detección de primos y resolución de problemas combinatorios.
 
 ---
 
@@ -92,7 +94,9 @@ Código ordenado, claro y recursividad bien aplicada donde se requiere.
 ---
 
 ## 📜 Licencia
-Este proyecto forma parte del proceso de aprendizaje en la Piscine 42 y se entrega con fines educativos. Puedes reutilizar el código con fines personales o como referencia.
+Este proyecto forma parte del proceso de aprendizaje en la Piscine 42 y se entrega con fines educativos. 
+
+Puedes reutilizar el código con fines personales o como referencia.
 
 ---
 
