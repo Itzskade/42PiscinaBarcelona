@@ -1,6 +1,8 @@
 # 💡 Proyecto C04
 
-Este repositorio contiene los ejercicios del proyecto C04, centrado en la manipulación de números y conversión de cadenas en lenguaje C. A lo largo de estos ejercicios, trabajarás con funciones como `ft_strlen`, `ft_putstr`, `ft_putnbr` y conversiones numéricas como `ft_atoi`, `ft_putnbr_base` y `ft_atoi_base`.
+Este repositorio contiene los ejercicios del proyecto C04, centrado en la manipulación de números y conversión de cadenas en lenguaje C. 
+
+A lo largo de estos ejercicios, trabajarás con funciones como `ft_strlen`, `ft_putstr`, `ft_putnbr` y conversiones numéricas como `ft_atoi`, `ft_putnbr_base` y `ft_atoi_base`.
 
 ---
 
