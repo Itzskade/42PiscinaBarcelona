@@ -32,7 +32,7 @@ El objetivo es colocar edificios con alturas del 1 al 4 en una cuadrícula, cump
         └─ init_grid(...) reserva memoria para grid[4][4] e inicializa con ceros
 
 ### 3️⃣ solver.c
-        └─ `solve(...)` recorre celda por celda e intenta colocar valores con backtracking
+        └─ solve(...) recorre celda por celda e intenta colocar valores con backtracking
             └─ is_safe(...) verifica que no haya números repetidos en fila/columna
             └─ is_valid_grid(...) comprueba que la cuadrícula respete las pistas
                 └─ check_views(...) llama a funciones de check.c
