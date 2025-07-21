@@ -46,11 +46,11 @@ Durante la evaluación, main.c será modificado para verificar diferentes combin
 
 | 🧩 Rush   | Enlace                                                                                       | Completado | Entregado | Validación |
 |----------|----------------------------------------------------------------------------------------------|------------|-----------|------------|
-| Rush00   | [ex00](https://github.com/Itzskade/Piscina42/tree/main/RUSH00/ex00)                         | ✅ Sí      | ✅ Sí     | 100%       |
-| Rush01   | [ex00](https://github.com/Itzskade/Piscina42/tree/main/RUSH00/ex00)                         | ✅ Sí      | ✅ Sí     | 100%       |
-| Rush02   | [ex00](https://github.com/Itzskade/Piscina42/tree/main/RUSH00/ex00)                         | ✅ Sí      | ✅ Sí     | 100%       |
-| Rush03   | [ex00](https://github.com/Itzskade/Piscina42/tree/main/RUSH00/ex00)                         | ✅ Sí      | ✅ Sí     | 100%       |
-| Rush04   | [ex00](https://github.com/Itzskade/Piscina42/tree/main/RUSH00/ex00/rush04.c)                         | ✅ Sí      | ✅ Sí     | 100%       |
+| Rush00   | [Rush00](https://github.com/Itzskade/Piscina42/tree/main/RUSH00/ex00/rush00.c)                         | ✅ Sí      | ✅ Sí     | 100%       |
+| Rush01   | [Rush01](https://github.com/Itzskade/Piscina42/tree/main/RUSH00/ex00/rush01.c)                         | ✅ Sí      | ✅ Sí     | 100%       |
+| Rush02   | [Rush02](https://github.com/Itzskade/Piscina42/tree/main/RUSH00/ex00/rush02.c)                         | ✅ Sí      | ✅ Sí     | 100%       |
+| Rush03   | [Rush03](https://github.com/Itzskade/Piscina42/tree/main/RUSH00/ex00/rush03.c)                         | ✅ Sí      | ✅ Sí     | 100%       |
+| Rush04   | [Rush04](https://github.com/Itzskade/Piscina42/tree/main/RUSH00/ex00/rush04.c)                         | ✅ Sí      | ✅ Sí     | 100%       |
 
 
 ## 📌 Recomendaciones
