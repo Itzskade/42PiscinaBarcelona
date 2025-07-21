@@ -75,27 +75,28 @@ Basado en mi vivencia en **42 Barcelona**, estos son algunos de los factores que
 
 ⚠️ *Recuerda que cada campus puede gestionar los ejercicios con ligeras variaciones.*
 
-| 📅 Día | 📁 Proyecto    | 🔢 Ejercicios | 📊 Nota final | ✅ Estado      |
-|--------|----------------|---------------|--------------|-----------------|
-| 1      | Shell 00       | 10            | 60/100       | ✅ Completado   |
-| 2      | Shell 01       | 9             | 85/100       | ✅ Completado   |
-| 3      | C00            | 9             | 100/100      | ✅ Completado   |
-| 4      | C01            | 9             | 100/100      | ✅ Completado   |
-| 5      | C02            | 12            | 85/100       | ✅ Completado   |
-| 8      | C03            | 6             | 100/100      | ✅ Completado   |
-| 9      | C04            | 6             | 100/100      | ✅ Completado   |
-| 10     | C05            | 8             | 80/100       | ✅ Completado   |
-| 11     | C06            | 4             | 100/100      | ✅ Completado   |
-| 12     | C07            | 6             | 100/100      | ✅ Completado   |
-| 16     | C08            | 6             | 100/100      | ✅ Completado   |
-| 17     | C09            | 3             | 100/100      | ✅ Completado   |
-| 18     | C10            | 4             | 15/100       | ❌ Reprobado    |
-| 19     | C12            | 18            | –            | ⚠️ No realizado |
-| 20     | C13            | 8             | –            | ⚠️ No realizado |
-| 6–7    | Rush00         | 1             | 0/100        | ❌ Reprobado    |
-| 13–15  | Rush01         | 1             | 42/100       | ❌ Reprobado    |
-| 21–23  | Rush02         | 1             | 0/100        | ❌ Reprobado    |
-| –      | BSQ            | –             | ❌           | ❌ No entregado |
+| 📁 Proyecto    | 🔢 Ejercicios | 📊 Nota final | ✅ Estado      |
+|----------------|---------------|--------------|-----------------|
+| Shell 00       | 10            | 100/100      | ✅ Completado   |
+| Shell 01       | 9             | 70/100       | ✅ Completado   |
+| C00            | 9             | 100/100      | ✅ Completado   |
+| C01            | 9             | 100/100      | ✅ Completado   |
+| C02            | 12            | 85/100       | ✅ Completado   |
+| C03            | 6             | 100/100      | ✅ Completado   |
+| C04            | 6             | 70/100       | ✅ Completado   |
+| C05            | 8             | 80/100       | ✅ Completado   |
+| C06            | 4             | 100/100      | ✅ Completado   |
+| C07            | 6             | 100/100      | ✅ Completado   |
+| C08            | 6             | 100/100      | ⚠️ No realizado  |
+| C09            | 3             | 100/100      | ⚠️ No realizado  |
+| C10            | 4             | 15/100       | ⚠️ No realizado  |
+| C11            | 8             | 15/100       | ⚠️ No realizado  |
+| C12            | 18            | –            | ⚠️ No realizado  |
+| C13            | 8             | –            | ⚠️ No realizado  |
+| Rush00         | 1             | 92/100        | ✅ Completado  |
+| Rush01         | 1             | 42/100       | ❌ Reprobado    |
+| Rush02         | 1             | 0/100        | ❌ Reprobado    |
+| BSQ            | –             | ❌           | ❌ No entregado |
 
 ---
 
