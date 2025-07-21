@@ -83,10 +83,10 @@ El objetivo es colocar edificios con alturas del 1 al 4 en una cuadrícula, cump
 
 | Dirección | Índices en clues[] |
 |-----------|--------------------|
-| Up        | 0  a 3             |
-| Down      | 4  a 7             |
-| Left      | 8  a 11            |
-| Right     | 12 a 15            |
+| Arriba    | 0  a 3             |
+| Abajo     | 4  a 7             |
+| Izquierda | 8  a 11            |
+| Derecha   | 12 a 15            |
 
 ---
 
