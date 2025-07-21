@@ -34,9 +34,9 @@ Respetar el estilo Norminette de 42.
 ## 🔧 Instrucciones de compilación
 Compila cada ejercicio individualmente con:
 
-''' bash
+``` bash 
 gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
-'''
+``` 
 
 ---
 
