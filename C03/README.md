@@ -1,6 +1,6 @@
 # 💡 Proyecto C03
 Este repositorio contiene los ejercicios del proyecto C03, enfocados en funciones de manipulación de cadenas en lenguaje C. 
-El objetivo es reproducir el comportamiento de funciones estándar como strcmp, strcat, strstr, entre otras, desarrollando tu comprensión de cómo se comparan y concatenan strings de forma precisa y eficiente.
+El objetivo es reproducir el comportamiento de funciones estándar, desarrollando tu comprensión de cómo se comparan y concatenan strings de forma precisa y eficiente.
 
 ---
 
@@ -86,7 +86,9 @@ Código legible, ordenado y modular.
 ---
 
 ## 📜 Licencia
-Este proyecto forma parte del proceso de aprendizaje en la Piscine 42 y se entrega con fines educativos. Puedes reutilizar el código con fines personales o como referencia.
+Este proyecto forma parte del proceso de aprendizaje en la Piscine 42 y se entrega con fines educativos. 
+
+Puedes reutilizar el código con fines personales o como referencia.
 
 ---
 
