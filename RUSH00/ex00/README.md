@@ -19,8 +19,10 @@ Este repositorio incluye las soluciones a los proyectos **Rush00**, **Rush01** y
 | Rush   | Descripción                                 | Directorio | Archivos entregables                      |
 |--------|---------------------------------------------|------------|-------------------------------------------|
 | Rush00 | Dibujar un rectángulo con `o`, `-`, `\|`    | ex00/      | `main.c`, `ft_putchar.c`, `rush00.c`      |
-| Rush01 | Rectángulo con `/`, `\`, `*`                | ex01/      | `main.c`, `ft_putchar.c`, `rush01.c`      |
-| Rush02 | Rectángulo con `A`, `B`, `C`                | ex02/      | `main.c`, `ft_putchar.c`, `rush02.c`      |
+| Rush01 | Rectángulo con `/`, `\`, `*`                | ex00/      | `main.c`, `ft_putchar.c`, `rush01.c`      |
+| Rush02 | Rectángulo con `A`, `B`, `C`                | ex00/      | `main.c`, `ft_putchar.c`, `rush02.c`      |
+| Rush03 | Rectángulo con `A`, `B`, `C`                | ex00/      | `main.c`, `ft_putchar.c`, `rush02.c`      |
+| Rush04 | Rectángulo con `A`, `B`, `C`                | ex00/      | `main.c`, `ft_putchar.c`, `rush02.c`      |
 
 ---
 
@@ -45,7 +47,10 @@ Durante la evaluación, main.c será modificado para verificar diferentes combin
 | 🧩 Rush   | Enlace                                                                                       | Completado | Entregado | Validación |
 |----------|----------------------------------------------------------------------------------------------|------------|-----------|------------|
 | Rush00   | [ex00](https://github.com/Itzskade/Piscina42/tree/main/RUSH00/ex00)                         | ✅ Sí      | ✅ Sí     | 100%       |
-| Rush01   | [ex01](https://github.com/Itzskade/Piscina42/tree/main/RUSH00/ex00)                         | ✅ Sí      | ✅ Sí     | 100%       |
+| Rush01   | [ex00](https://github.com/Itzskade/Piscina42/tree/main/RUSH00/ex00)                         | ✅ Sí      | ✅ Sí     | 100%       |
+| Rush02   | [ex00](https://github.com/Itzskade/Piscina42/tree/main/RUSH00/ex00)                         | ✅ Sí      | ✅ Sí     | 100%       |
+| Rush03   | [ex00](https://github.com/Itzskade/Piscina42/tree/main/RUSH00/ex00)                         | ✅ Sí      | ✅ Sí     | 100%       |
+| Rush04   | [ex00](https://github.com/Itzskade/Piscina42/tree/main/RUSH00/ex00/rush04.c)                         | ✅ Sí      | ✅ Sí     | 100%       |
 
 
 ## 📌 Recomendaciones
