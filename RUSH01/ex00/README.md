@@ -24,10 +24,8 @@ El objetivo es colocar edificios con alturas del 1 al 4 en una cuadrícula, cump
 
 ## 🧠 Flujo del Programa
 
-1️⃣ main.c
-
+#### 1️⃣ main.c
         └─ Inicia el programa.
-        
         └─ Llama a parse_input(...) para validar y extraer las 16 pistas.
 
 2️⃣ grid.c
