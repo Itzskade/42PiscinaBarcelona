@@ -1,5 +1,6 @@
 # 💡 Proyecto C03
 Este repositorio contiene los ejercicios del proyecto C03, enfocados en funciones de manipulación de cadenas en lenguaje C. 
+
 El objetivo es reproducir el comportamiento de funciones estándar, desarrollando tu comprensión de cómo se comparan y concatenan strings de forma precisa y eficiente.
 
 ---
