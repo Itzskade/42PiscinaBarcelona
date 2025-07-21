@@ -21,8 +21,8 @@ Este repositorio incluye las soluciones a los proyectos **Rush00**, **Rush01** y
 | Rush00 | Dibujar un rectángulo con `o`, `-`, `\|`    | ex00/      | `main.c`, `ft_putchar.c`, `rush00.c`      |
 | Rush01 | Rectángulo con `/`, `\`, `*`                | ex00/      | `main.c`, `ft_putchar.c`, `rush01.c`      |
 | Rush02 | Rectángulo con `A`, `B`, `C`                | ex00/      | `main.c`, `ft_putchar.c`, `rush02.c`      |
-| Rush03 | Rectángulo con `A`, `B`, `C`                | ex00/      | `main.c`, `ft_putchar.c`, `rush02.c`      |
-| Rush04 | Rectángulo con `A`, `B`, `C`                | ex00/      | `main.c`, `ft_putchar.c`, `rush02.c`      |
+| Rush03 | Rectángulo con `A`, `B`, `C`                | ex00/      | `main.c`, `ft_putchar.c`, `rush03.c`      |
+| Rush04 | Rectángulo con `A`, `B`, `C`                | ex00/      | `main.c`, `ft_putchar.c`, `rush04.c`      |
 
 ---
 
