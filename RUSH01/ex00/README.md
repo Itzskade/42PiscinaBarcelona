@@ -24,20 +24,20 @@ El objetivo es colocar edificios con alturas del 1 al 4 en una cuadrícula, cump
 
 ## 🧠 Flujo del Programa
 
-### 1️⃣ main.c
+1️⃣ main.c
         └─ Inicia el programa
         └─ Llama a parse_input(...) para validar y extraer las 16 pistas
 
-### 2️⃣ grid.c
+2️⃣ grid.c
         └─ init_grid(...) reserva memoria para grid[4][4] e inicializa con ceros
 
-### 3️⃣ solver.c
+3️⃣ solver.c
         └─ solve(...) recorre celda por celda e intenta colocar valores con backtracking
             └─ is_safe(...) verifica que no haya números repetidos en fila/columna
             └─ is_valid_grid(...) comprueba que la cuadrícula respete las pistas
                 └─ check_views(...) llama a funciones de check.c
 
-### 4️⃣ check.c
+4️⃣ check.c
         └─ check_views(...) llama a:
             ├─ check_row_left(...)    → vista desde la izquierda
             ├─ check_row_right(...)   → vista desde la derecha
@@ -45,21 +45,20 @@ El objetivo es colocar edificios con alturas del 1 al 4 en una cuadrícula, cump
             └─ check_col_down(...)    → vista desde abajo
                 └─ Cada función reconstruye una línea y llama a validate_line(...)
 
-### 5️⃣ solver.c
+5️⃣ solver.c
         └─ `count_visible(...)` calcula cuántos edificios se ven en una línea
         └─ validate_line(...) compara el resultado con la pista esperada
 
-### 6️⃣ grid.c
+6️⃣ grid.c
         └─ print_grid(...) imprime la solución en pantalla si se encuentra
 
-### 7️⃣ utils.c
+7️⃣ utils.c
         ├─ write_error(...) muestra “Error” si la entrada es inválida o no hay solución
         └─ ft_putchar(...) se usa en impresión de la matriz
-
-### 8️⃣ grid.c
+8️⃣ grid.c
         └─ free_grid(...) libera la memoria dinámica al final
 
-### ✅ Final: el programa imprime la solución o muestra “Error” si falla
+✅ Final: el programa imprime la solución o muestra “Error” si falla
 
 
 ---
