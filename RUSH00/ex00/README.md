@@ -46,7 +46,6 @@ Durante la evaluación, main.c será modificado para verificar diferentes combin
 |----------|----------------------------------------------------------------------------------------------|------------|-----------|------------|
 | Rush00   | [ex00](https://github.com/Itzskade/Piscina42/tree/main/RUSH00/ex00)                         | ✅ Sí      | ✅ Sí     | 100%       |
 | Rush01   | [ex01](https://github.com/Itzskade/Piscina42/tree/main/RUSH00/ex00)                         | ✅ Sí      | ✅ Sí     | 100%       |
-| Rush02   | [ex02](https://github.com/Itzskade/Piscina42/tree/main/RUSH00/ex00)                         | ✅ Sí      | ✅ Sí     | 100%       |
 
 
 ## 📌 Recomendaciones
