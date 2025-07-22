@@ -46,7 +46,7 @@ El objetivo es colocar edificios con alturas del 1 al 4 en una cuadrícula, cump
                 └─ Cada función reconstruye una línea y llama a validate_line(...)
 
 #### 5️⃣ solver.c
-        └─ `count_visible(...)` calcula cuántos edificios se ven en una línea
+        └─ count_visible(...) calcula cuántos edificios se ven en una línea
         └─ validate_line(...) compara el resultado con la pista esperada
 
 #### 6️⃣ grid.c
