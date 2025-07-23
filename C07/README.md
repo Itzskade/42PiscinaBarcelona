@@ -1,5 +1,5 @@
 ## 💡 Proyecto C07
-Este repositorio contiene los ejercicios del proyecto C07, enfocados en la manipulación dinámica de memoria con `malloc`, arrays, cadenas y conversiones numéricas en lenguaje C.
+Este repositorio contiene los ejercicios del proyecto C07, enfocados en la manipulación dinámica de memoria con `malloc`, `arrays`, `cadenas` y `conversiones numéricas` en lenguaje C.
 
 A través de estos ejercicios, aprenderás a trabajar con punteros, gestionar memoria, transformar cadenas y dividir textos según separadores personalizados.
 
