@@ -17,14 +17,14 @@ A través de estos ejercicios, aprenderás a trabajar con punteros, gestionar me
 
 ## 📁 Tabla de ejercicios
 
-| Ejercicio | Descripción                                        | Directorio | Archivo entregable            | Estado    |
-|----------:|----------------------------------------------------|------------|-------------------------------|-----------|
-| 00        | Reproduce el comportamiento de `strdup`            | ex00/      | ft_strdup.c                   | ✅ Hecho   |
-| 01        | Devuelve un array con valores entre min y max      | ex01/      | ft_range.c                    | ✅ Hecho   |
-| 02        | Reserva y llena un array de int entre min y max    | ex02/      | ft_ultimate_range.c           | ✅ Hecho   |
-| 03        | Une cadenas separadas por un separador personalizado| ex03/      | ft_strjoin.c                  | ✅ Hecho   |
-| 04        | Convierte una cadena entre bases numéricas         | ex04/      | ft_convert_base.c             | ⏳ Pendiente |
-| 05        | Divide una cadena en función de múltiples separadores | ex05/   | ft_split.c                    | ⏳ Pendiente |
+| Ejercicio | Descripción                                        | Directorio | Archivo entregable            |
+|----------:|----------------------------------------------------|------------|-------------------------------|
+| 00        | Reproduce el comportamiento de `strdup`            | ex00/      | ft_strdup.c                   |
+| 01        | Devuelve un array con valores entre min y max      | ex01/      | ft_range.c                    |
+| 02        | Reserva y llena un array de int entre min y max    | ex02/      | ft_ultimate_range.c           | 
+| 03        | Une cadenas separadas por un separador personalizado| ex03/      | ft_strjoin.c                 |  
+| 04        | Convierte una cadena entre bases numéricas         | ex04/      | ft_convert_base.c             | 
+| 05        | Divide una cadena en función de múltiples separadores | ex05/   | ft_split.c                    | 
 
 --- 
 
