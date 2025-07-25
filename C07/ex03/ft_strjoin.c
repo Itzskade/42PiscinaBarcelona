@@ -36,7 +36,7 @@ int	total_length(int size, char **strs, char *sep)
 	return (len);
 }
 
-char	*cpy_all(int size, char **strs, char *sep, char *cpy)
+void cpy_all(int size, char **strs, char *sep, char *cpy)
 {
 	int		i;
 	int		j;
@@ -56,7 +56,7 @@ char	*cpy_all(int size, char **strs, char *sep, char *cpy)
 				*cpy++ = sep[j++];
 		}
 	}
-	return (ptr);
+	*cpy = '\0';
 }
 
 char	*ft_strjoin(int size, char **strs, char *sep)
