@@ -1,4 +1,3 @@
-
 #include "structs.h"
 
 void	print_value(char *value)
