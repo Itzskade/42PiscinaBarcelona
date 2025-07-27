@@ -21,6 +21,8 @@ int		is_valid_number(char *str);
 // utils2.c
 char	*ft_strncpy(char *dest, char *src, int n);
 void	ft_bzero(void *s, int n);
+char	*pad_triplet(char *triplet);
+int	is_zero_triplet(char *triplet);
 
 // read_file.c
 char	*read_file(char *dict_file);
