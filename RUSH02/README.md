@@ -109,6 +109,7 @@ Agrupa en grupos de 3.
 
 ####	`is_zero_triplet(char *triplet)`
 Revisa que hayan 3 ceros.
+
 ---
 
 ### `read_file.c`
