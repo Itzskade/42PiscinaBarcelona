@@ -23,7 +23,7 @@ char	*ft_strncpy(char *dest, char *src, int n);
 void	ft_bzero(void *s, int n);
 
 // read_file.c
-char	*read_file(char *filename);
+char	*read_file(char *dict_file);
 
 // parse_line.c
 int		skip_whitespace(char *str, int i);
@@ -37,7 +37,7 @@ char	**split_lines(char *str);
 int		free_lines(char **lines, int count);
 
 // dict.c
-t_dict	*load_dict(char *filename, int *size);
+t_dict	*load_dict(char *dict_file, int *size);
 int		fill_dict(t_dict *dict, char **lines, int lines_count);
 char	*find_value_from_key(t_dict *dict, int size, char *key);
 void	free_dict(t_dict *dict, int size);
