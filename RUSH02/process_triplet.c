@@ -45,7 +45,10 @@ void	process_tens_units(t_dict *dict, int size, char *triplet)
 	if (triplet[1] != '0')
 		process_tens(dict, size, triplet);
 	if (triplet[1] != '1' && triplet[2] != '0' && triplet[2] != '\0')
-		process_units(dict, size, triplet);
+	{
+			write(1, "-", 1);
+			process_units(dict, size, triplet);
+	}
 }
 
 void	process_triplet(t_dict *dict, int size, char *triplet)
