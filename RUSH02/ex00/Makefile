@@ -38,6 +38,10 @@ run: check-dict $(TARGET)
 clean:
 	rm -rf $(OBJ_DIR) $(TARGET)
 
+fclean: clean
+	@echo "🧨 Limpieza total completada"
+	
+re: fclean all
+
 # 🔖 Declarar phony targets
 .PHONY: all clean check-dict run
-
