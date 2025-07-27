@@ -16,10 +16,10 @@ int		ft_strlen(char *str);
 char	*ft_strdup(char *src);
 char	*ft_substr(char *str, int start, int len);
 int		ft_strcmp(char *s1, char *s2);
-int		is_valid_number(char *str);
+char	*ft_strncpy(char *dest, char *src, int n);
 
 // utils2.c
-char	*ft_strncpy(char *dest, char *src, int n);
+int		is_valid_number(char *str);
 void	ft_bzero(void *s, int n);
 char	*pad_triplet(char *triplet);
 int	is_zero_triplet(char *triplet);
