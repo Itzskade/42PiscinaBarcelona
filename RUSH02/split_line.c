@@ -1,4 +1,3 @@
-
 #include "structs.h"
 
 int	count_lines(char *str)
