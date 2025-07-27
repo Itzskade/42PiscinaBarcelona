@@ -81,7 +81,8 @@ typedef struct s_dict
 }   t_dict;
 
 #endif
-       |
+```
+
 ---
 
 ## 📁 Archivos y Funciones
