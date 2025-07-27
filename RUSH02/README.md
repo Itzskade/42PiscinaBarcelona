@@ -207,8 +207,6 @@ Imprime una palabra y un espacio.
 #### `print_scale_name(dict, size, index)`
 Convierte index → "1000", "1000000", etc., y busca "thousand", "million"...
 
-> Esta función se llama desde `process_number` para imprimir las escalas correctas tras cada triplete.
-
 ---
 
 ## 📌 Resumen del Flujo Completo
