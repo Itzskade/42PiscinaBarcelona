@@ -91,19 +91,24 @@ Extrae una parte del string desde la posición `start` con longitud `len`.
 #### `ft_strcmp(s1, s2)`
 Compara dos strings. Devuelve 0 si son iguales.
 
-#### `is_valid_number(str)`
-Verifica si el string contiene solo dígitos del 0 al 9.
+#### `ft_strncpy(dest, src, n)`
+Copia los primeros `n` caracteres de `src` en `dest`.
 
 ---
 
 ### `utils2.c`
 
-#### `ft_strncpy(dest, src, n)`
-Copia los primeros `n` caracteres de `src` en `dest`.
-
 #### `ft_bzero(s, n)`
 **Importante**: Esta función pone todos los bytes del bloque `s` a cero (básicamente limpia la memoria). Se usa para evitar basura en la memoria.
 
+#### `is_valid_number(str)`
+Verifica si el string contiene solo dígitos del 0 al 9.
+
+#### `*pad_triplet(char *triplet)`
+Agrupa en grupos de 3.
+
+####	`is_zero_triplet(char *triplet)`
+Revisa que hayan 3 ceros.
 ---
 
 ### `read_file.c`
@@ -204,6 +209,9 @@ Busca unidades como "1", "2", etc.
 #### `print_value(value)`
 Imprime una palabra y un espacio.
 
+#### `process_number(t_dict *dict, int size, char *number)`
+Convierte el número completo en palabras, dividiéndolo en grupos de tres cifras.
+
 #### `print_scale_name(dict, size, index)`
 Convierte index → "1000", "1000000", etc., y busca "thousand", "million"...
 
@@ -243,11 +251,13 @@ Tripletes: ["001", "234", "567"]
 
 ---
 
-## ✅ Validaciones
+## ⚠️ Validaciones y errores
 
-- Si el archivo no existe → "Dict Error"
-- Si el número no es válido → "Error"
-- Si una línea del diccionario está mal → simplemente se ignora
+    ❌ Número inválido → Error
+
+    ❌ Diccionario no encontrado → Dict Error
+
+    ❌ Líneas mal formateadas → Se ignoran
 
 ---
 
@@ -277,3 +287,9 @@ make re    # Limpia y recompila
 | `split_lines.c`, `parse_line.c`, `read_file.c` | Lectura y procesamiento del archivo |
 | `structs.h` | Declaración de estructuras y funciones |
 | `Makefile` | Compilación |
+
+---
+
+## 💬 Créditos
+
+Proyecto desarrollado como parte del curso intensivo Rush de 42 School. Estructurado para aprender manipulación de archivos, estructuras, y trabajo con strings en C.
