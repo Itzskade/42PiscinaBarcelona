@@ -1,4 +1,3 @@
-parse_line.c
 #include "structs.h"
 
 int	skip_whitespace(char *str, int i)
