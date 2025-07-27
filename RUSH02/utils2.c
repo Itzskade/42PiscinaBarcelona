@@ -31,3 +31,17 @@ void	ft_bzero(void *s, int n)
 		i++;
 	}
 }
+
+int	is_zero_triplet(char *triplet)
+{
+	int	i;
+
+	i = 0;
+	while (triplet[i])
+	{
+		if (triplet[i] != '0')
+			return (0);
+		i++;
+	}
+	return (1);
+}
