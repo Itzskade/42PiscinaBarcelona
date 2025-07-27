@@ -62,20 +62,20 @@ int	ft_strcmp(char *s1, char *s2)
 	return ((unsigned char)s1[i] - (unsigned char)s2[i]);
 }
 
-int	is_valid_number(char *str)
+char	*ft_strncpy(char *dest, char *src, int n)
 {
 	int	i;
 
 	i = 0;
-	if (!str)
-		return (0);
-	if (str[0] == '\0')
-		return (0);
-	while (str[i])
+	while (i < n && src[i])
 	{
-		if (str[i] < '0' || str[i] > '9')
-			return (0);
+		dest[i] = src[i];
 		i++;
 	}
-	return (1);
+	while (i < n)
+	{
+		dest[i] = '\0';
+		i++;
+	}
+	return (dest);
 }
