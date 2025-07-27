@@ -1,23 +1,5 @@
 #include "structs.h"
 
-char	*ft_strncpy(char *dest, char *src, int n)
-{
-	int	i;
-
-	i = 0;
-	while (i < n && src[i])
-	{
-		dest[i] = src[i];
-		i++;
-	}
-	while (i < n)
-	{
-		dest[i] = '\0';
-		i++;
-	}
-	return (dest);
-}
-
 void	ft_bzero(void *s, int n)
 {
 	int		i;
@@ -67,6 +49,24 @@ int	is_zero_triplet(char *triplet)
 	while (triplet[i])
 	{
 		if (triplet[i] != '0')
+			return (0);
+		i++;
+	}
+	return (1);
+}
+
+int	is_valid_number(char *str)
+{
+	int	i;
+
+	i = 0;
+	if (!str)
+		return (0);
+	if (str[0] == '\0')
+		return (0);
+	while (str[i])
+	{
+		if (str[i] < '0' || str[i] > '9')
 			return (0);
 		i++;
 	}
