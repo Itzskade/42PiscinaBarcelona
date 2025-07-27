@@ -133,12 +133,10 @@ Abre y lee el archivo entero al buffer. Usa `read()` y `open()`. Almacena el con
 ### `split_lines.c`
 
 #### `count_lines(str)`
-Cuenta cuántas líneas tiene el archivo (cuántos `
-` hay).
+Cuenta cuántas líneas tiene el archivo (cuántos `(\n)` hay).
 
 #### `split_lines(str)`
-Separa el contenido del archivo en líneas usando `
-`. Cada línea es una entrada del diccionario.
+Separa el contenido del archivo en líneas usando `(\n)`. Cada línea es una entrada del diccionario.
 
 #### `free_lines(lines, count)`
 Libera la memoria de todas las líneas.
