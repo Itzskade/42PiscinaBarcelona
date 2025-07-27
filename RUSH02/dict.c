@@ -1,10 +1,10 @@
 #include "structs.h"
 
-char	**get_lines(char *filename, int *lines_count, char **content)
+char	**get_lines(char *dict_file, int *lines_count, char **content)
 {
 	char	**lines;
 
-	*content = read_file(filename);
+	*content = read_file(dict_file);
 	if (!*content)
 		return (0);
 	*lines_count = count_lines(*content);
@@ -63,14 +63,14 @@ int	fill_dict(t_dict *dict, char **lines, int lines_count)
 	return (valid);
 }
 
-t_dict	*load_dict(char *filename, int *size)
+t_dict	*load_dict(char *dict_file, int *size)
 {
 	char	*content;
 	char	**lines;
 	t_dict	*dict;
 	int		lines_count;
 
-	lines = get_lines(filename, &lines_count, &content);
+	lines = get_lines(dict_file, &lines_count, &content);
 	if (!lines)
 		return (0);
 	dict = malloc(sizeof(t_dict) * lines_count);
