@@ -1,0 +1,62 @@
+structs.h
+
+#ifndef STRUCTS_H
+# define STRUCTS_H
+
+# include <stdlib.h>
+# include <unistd.h>
+
+// Estructura para las entradas del diccionario
+typedef struct s_dict
+{
+	char	*key;
+	char	*value;
+}	t_dict;
+
+// utils.c
+int		ft_strlen(char *str);
+char	*ft_strdup(char *src);
+char	*ft_substr(char *str, int start, int len);
+int		ft_strcmp(char *s1, char *s2);
+int		is_valid_number(char *str);
+
+// utils2.c
+char	*ft_strncpy(char *dest, char *src, int n);
+void	ft_bzero(void *s, int n);
+
+// read_file.c
+char	*read_file(char *filename);
+
+// parse_line.c
+int		skip_whitespace(char *str, int i);
+char	*extract_key(char *line, int *pos);
+char	*extract_value(char *line, int start);
+int		parse_line(char *line, char **key, char **value);
+
+// split_lines.c
+int		count_lines(char *str);
+char	**split_lines(char *str);
+int		free_lines(char **lines, int count);
+
+// dict.c
+t_dict	*load_dict(char *filename, int *size);
+int		fill_dict(t_dict *dict, char **lines, int lines_count);
+char	*find_value_from_key(t_dict *dict, int size, char *key);
+void	free_dict(t_dict *dict, int size);
+
+// scale.c
+int		get_zeros_count(int index);
+char	*get_scale_key(int index);
+
+// process_triplet.c
+void	process_tens_units(t_dict *dict, int size, char *triplet);
+void	process_units(t_dict *dict, int size, char *triplet);
+void	process_tens(t_dict *dict, int size, char *triplet);
+void	process_teens(t_dict *dict, int size, char *triplet);
+void	process_triplet(t_dict *dict, int size, char *triplet);
+
+// process_number.c
+void	print_value(char *value);
+void	print_scale_name(t_dict *dict, int size, int index);
+
+#endif
