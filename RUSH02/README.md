@@ -174,9 +174,3 @@ make re      # Limpia y recompila
 | `split_lines.c`, `parse_line.c`, `read_file.c` | Lectura y procesamiento del archivo |
 | `structs.h` | Declaración de estructuras y funciones |
 | `Makefile` | Compilación |
-
----
-
-## 💬 ¿Dudas?
-
-Este README está pensado para que incluso tus compañeros que no sepan programar puedan leerlo y entender qué pasa paso a paso.
