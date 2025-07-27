@@ -1,4 +1,3 @@
-read_file.c
 #include "structs.h"
 #include <fcntl.h>
 
