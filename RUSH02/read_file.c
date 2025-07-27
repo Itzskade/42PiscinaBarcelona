@@ -1,7 +1,7 @@
 #include "structs.h"
 #include <fcntl.h>
 
-char	*read_file(char *filename)
+char	*read_file(char *dict_file)
 {
 	int		fd;
 	int		bytes;
@@ -9,7 +9,7 @@ char	*read_file(char *filename)
 	char	*content;
 	int		i;
 
-	fd = open(filename, O_RDONLY);
+	fd = open(dict_file, O_RDONLY);
 	if (fd < 0)
 		return (0);
 	bytes = read(fd, buffer, 4096);
