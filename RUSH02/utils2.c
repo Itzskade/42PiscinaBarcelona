@@ -32,9 +32,6 @@ void	ft_bzero(void *s, int n)
 	}
 }
 
-#include "libft.h"
-#include <stdlib.h>
-
 char	*pad_triplet(char *triplet)
 {
 	int		len;
