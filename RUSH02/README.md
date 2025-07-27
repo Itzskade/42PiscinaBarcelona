@@ -26,21 +26,53 @@ Este proyecto convierte un número numérico (como `"123456"`) en su forma escri
 
 ## 🔁 Flujo General del Programa
 
-### 1. 📥 `main.c`
-**Función:** `main(argc, argv)`
+### Punto de entrada: `main.c`
 
-Es el punto de entrada. Hace estas cosas:
+El programa comienza en la función principal `main`, que sigue estos pasos:
 
-- **`validate_args`**: Comprueba que los argumentos del usuario sean válidos.
-  - Si se llama con 2 argumentos: `./rush02 number` → usa "numbers.dict".
-  - Si se llama con 3: `./rush02 custom.dict number`.
+1. **Validar argumentos**  
+   Llama a `validate_args(argc, argv)` para comprobar que la entrada es correcta:  
+   - Si recibe dos argumentos (`./rush02 número`), usará el diccionario por defecto `"numbers.dict"`.  
+   - Si recibe tres argumentos (`./rush02 diccionario número`), usará el diccionario personalizado indicado.
 
-- **`load_dictionary`**: Carga el contenido del archivo dict y lo guarda en memoria como un array de estructuras.
+2. **Cargar diccionario**  
+   Llama a `load_dictionary(filename)` para:  
+   - Abrir el archivo del diccionario.  
+   - Leer todo su contenido con `read_file(filename)`.  
+   - Separar el texto en líneas con `split_lines(content)`.  
+   - Analizar cada línea con `parse_line(line, &key, &value)`.  
+   - Guardar cada par clave-valor en una estructura interna (array de `t_dict`) con `fill_dict(dict, lines, count)`.
 
-- **`validate_number_input`**: Verifica que el número dado sea válido (solo dígitos).
+3. **Validar número de entrada**  
+   Usa `validate_number_input(number_str)` para asegurarse de que el número contiene solo dígitos.
 
-- Si todo está bien, llama a `process_number` para convertir el número.
+4. **Procesar número**  
+   Llama a `process_number(dict, dict_size, number_str)` que:  
+   - Divide el número en tripletes (grupos de tres cifras) empezando desde la derecha.  
+   - Para cada triplete, llama a `process_triplet(dict, dict_size, triplet)` que:  
+     - Convierte centenas, decenas y unidades en palabras (por ejemplo, `123` → “one hundred twenty-three”).  
+     - Dentro de `process_triplet`, se llaman funciones como `process_hundreds`, `process_tens_units`, `process_teens`, `process_tens` y `process_units` para cada parte.  
+   - Después de cada triplete, imprime la escala correspondiente (mil, millón, etc.) usando `print_scale_name(dict, dict_size, index_triplet)`.
 
+5. **Mostrar resultado**  
+   Todo el texto generado se imprime en pantalla como la representación completa del número en palabras.
+
+6. **Liberar memoria**  
+   Llama a funciones como `free_dict(dict, dict_size)` y `free_lines(lines, count)` para liberar toda la memoria dinámica usada y evitar pérdidas.
+
+---
+
+### Resumen simplificado con funciones clave:
+
+| Paso                         | Función principal                       | Descripción breve                                       |
+|------------------------------|---------------------------------------|---------------------------------------------------------|
+| Validar argumentos            | `validate_args(argc, argv)`            | Verifica que la entrada sea correcta                     |
+| Leer diccionario              | `load_dictionary(filename)`            | Lee y procesa el archivo del diccionario                 |
+| Validar número                | `validate_number_input(number_str)`    | Asegura que el número contiene solo dígitos              |
+| Procesar número y tripletes   | `process_number(dict, size, number)`   | Divide y convierte cada triplete a palabras               |
+| Procesar cada triplete        | `process_triplet(dict, size, triplet)` | Convierte centenas, decenas y unidades                    |
+| Imprimir escala               | `print_scale_name(dict, size, index)`  | Imprime “thousand”, “million”, etc. según el triplete    |
+| Liberar memoria              | `free_dict(dict, size)`, `free_lines`  | Limpia la memoria dinámica para evitar fugas             |
 ---
 
 ## 📁 Archivos y Funciones
