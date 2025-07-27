@@ -18,7 +18,7 @@ Este proyecto convierte un número dado como argumento en palabras en inglés, u
 ---
 
 
-# Proyecto Rush 02 - Explicación Detallada
+# 🧠 Explicación Detallada
 
 Este proyecto convierte un número numérico (como `"123456"`) en su forma escrita en inglés (como `"one hundred twenty-three thousand four hundred fifty-six"`), usando un diccionario (`.dict`) personalizado.
 
