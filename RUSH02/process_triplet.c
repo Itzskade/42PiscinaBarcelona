@@ -1,5 +1,3 @@
-process_triplet.c
-
 #include "structs.h"
 
 void	process_teens(t_dict *dict, int size, char *triplet)
