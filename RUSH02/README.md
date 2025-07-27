@@ -36,9 +36,9 @@ El programa comienza en la función principal `main`, que sigue estos pasos:
    - Si recibe tres argumentos (`./rush02 diccionario número`), usará el diccionario personalizado indicado.
 
 2. **Cargar diccionario**  
-   Llama a `load_dictionary(filename)` para:  
+   Llama a `load_dictionary(dict_file)` para:  
    - Abrir el archivo del diccionario.  
-   - Leer todo su contenido con `read_file(filename)`.  
+   - Leer todo su contenido con `read_file(dict_file)`.  
    - Separar el texto en líneas con `split_lines(content)`.  
    - Analizar cada línea con `parse_line(line, &key, &value)`.  
    - Guardar cada par clave-valor en una estructura interna (array de `t_dict`) con `fill_dict(dict, lines, count)`.
@@ -67,7 +67,7 @@ El programa comienza en la función principal `main`, que sigue estos pasos:
 | Paso                         | Función principal                       | Descripción breve                                       |
 |------------------------------|---------------------------------------|---------------------------------------------------------|
 | Validar argumentos            | `validate_args(argc, argv)`            | Verifica que la entrada sea correcta                     |
-| Leer diccionario              | `load_dictionary(filename)`            | Lee y procesa el archivo del diccionario                 |
+| Leer diccionario              | `load_dictionary(dict_file)`            | Lee y procesa el archivo del diccionario                 |
 | Validar número                | `validate_number_input(number_str)`    | Asegura que el número contiene solo dígitos              |
 | Procesar número y tripletes   | `process_number(dict, size, number)`   | Divide y convierte cada triplete a palabras               |
 | Procesar cada triplete        | `process_triplet(dict, size, triplet)` | Convierte centenas, decenas y unidades                    |
@@ -108,7 +108,7 @@ Copia los primeros `n` caracteres de `src` en `dest`.
 
 ### `read_file.c`
 
-#### `read_file(filename)`
+#### `read_file(dict_file)`
 Abre y lee el archivo entero al buffer. Usa `read()` y `open()`. Almacena el contenido en un string.
 
 ---
@@ -146,7 +146,7 @@ Divide una línea en `key: value`, manejando errores si no hay `:` o memoria.
 
 ### `dict.c`
 
-#### `load_dict(filename, &size)`
+#### `load_dict(dict_file, &size)`
 Carga y guarda el diccionario entero:
 1. Llama a `read_file`.
 2. Llama a `split_lines`.
