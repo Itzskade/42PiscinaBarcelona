@@ -1,5 +1,3 @@
-Makefile
-
 NAME = rush02
 
 SRC = main.c \
