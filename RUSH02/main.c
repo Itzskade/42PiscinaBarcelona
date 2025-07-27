@@ -1,5 +1,3 @@
-main.c
-
 #include "structs.h"
 
 int	validate_args(int argc, char **argv, char **dict_file, char **number)
