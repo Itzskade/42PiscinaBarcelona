@@ -1,5 +1,3 @@
-scale.c
-
 #include "structs.h"
 
 int	get_zeros_count(int index)
