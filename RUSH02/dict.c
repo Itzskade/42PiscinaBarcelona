@@ -1,4 +1,3 @@
-dict.c
 #include "structs.h"
 
 char	**get_lines(char *filename, int *lines_count, char **content)
