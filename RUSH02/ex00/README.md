@@ -60,6 +60,7 @@ El programa comienza en la función principal `main`, que sigue estos pasos:
 | Procesar cada triplete        | `process_triplet(dict, size, triplet)` | Convierte centenas, decenas y unidades                    |
 | Imprimir escala               | `print_scale_name(dict, size, index)`  | Imprime “thousand”, “million”, etc. según el triplete    |
 | Liberar memoria              | `free_dict(dict, size)`, `free_lines`  | Limpia la memoria dinámica para evitar fugas             |
+
 ---
 
 ## 📁 Archivos y Funciones
@@ -81,7 +82,8 @@ typedef struct s_dict
 }   t_dict;
 
 #endif
-       |
+```
+
 ---
 
 ## 📁 Archivos y Funciones
