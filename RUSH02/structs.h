@@ -56,5 +56,6 @@ void	process_triplet(t_dict *dict, int size, char *triplet);
 // process_number.c
 void	print_value(char *value);
 void	print_scale_name(t_dict *dict, int size, int index);
+void	process_number(t_dict *dict, int size, char *number);
 
 #endif
