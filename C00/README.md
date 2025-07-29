@@ -14,7 +14,7 @@ Este repositorio contiene los ejercicios del proyecto **C00**, uno de los primer
 
 ---
 
-## 🔧 Requisitos técnicos
+## ❕ Requisitos técnicos
 
 - Solo se permite usar la función `write()`  
 - No se permiten funciones estándar como `printf`, `puts`, etc.  
