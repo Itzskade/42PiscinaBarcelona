@@ -43,23 +43,23 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 
 ## 🧪 Consejos para testeo
 
-    Prueba tus funciones con valores límite y negativos.
+    - Prueba tus funciones con valores límite y negativos.
 
-    Asegúrate de liberar memoria si la función lo requiere (aunque no lo aplican en este proyecto).
+    - Asegúrate de liberar memoria si la función lo requiere (aunque no lo aplican en este proyecto).
 
-    Verifica salida esperada usando echo $? o valgrind cuando sea relevante.
+    - Verifica salida esperada usando echo $? o valgrind cuando sea relevante.
 
 ---
 
 ## 📐 Normas de estilo
 
-    Usa tabs para sangrado, no espacios.
+    - Usa tabs para sangrado, no espacios.
 
-    Nombres coherentes y descriptivos.
+    - Nombres coherentes y descriptivos.
 
-    Sin funciones externas, excepto write donde esté permitido.
+    - Sin funciones externas, excepto write donde esté permitido.
 
-    Estructura clara en cada función.
+    - Estructura clara en cada función.
 
 ---
 
@@ -82,13 +82,13 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 
 ## 📌 Recomendaciones
 
-     Haz commits frecuentes y bien comentados
+     - Haz commits frecuentes y bien comentados
 
-     Usa man para comprender el comportamiento de funciones C
+     - Usa man para comprender el comportamiento de funciones C
 
-     Testea en profundidad antes de entregar
+     - Testea en profundidad antes de entregar
 
-     Pregunta, colabora, y participa activamente en tu grupo de estudio
+     - Pregunta, colabora, y participa activamente en tu grupo de estudio
 
 ---
 
