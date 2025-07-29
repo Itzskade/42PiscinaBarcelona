@@ -3,14 +3,18 @@
 
 Este repositorio reúne todos los proyectos desarrollados durante mi participación en la **Piscina 42 Barcelona**, celebrada en julio de 2025. Es una experiencia técnica intensa enfocada en adquirir habilidades prácticas de programación en C, scripting en Bash, estructuras de datos y uso avanzado del sistema UNIX.
 
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/c7c50e99-c4a0-48f0-95be-cac223f3fc52" width="200">
+</p>
+
+
 ---
 
 ## 📜 Sobre 42
 
 **42** es una escuela de programación sin clases, profesores ni matrículas, con una metodología revolucionaria basada en el trabajo entre pares (_peer-to-peer_) y en el aprendizaje por proyectos.
 
-<img src="https://github.com/user-attachments/assets/c7c50e99-c4a0-48f0-95be-cac223f3fc52" width="200">
-
+---
 
 ### 🌟 Características destacadas:
 
