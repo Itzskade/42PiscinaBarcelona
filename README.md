@@ -9,7 +9,7 @@ Este repositorio reúne todos los proyectos desarrollados durante mi participaci
 
 **42** es una escuela de programación sin clases, profesores ni matrículas, con una metodología revolucionaria basada en el trabajo entre pares (_peer-to-peer_) y en el aprendizaje por proyectos.
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/15d82723-3ee0-4b1f-a242-e44f804ae983" />
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3847483331636b43687a7338386a6d6348622f67697068792e676966](https://github.com/user-attachments/assets/c7c50e99-c4a0-48f0-95be-cac223f3fc52)
 
 
 ### 🌟 Características destacadas:
