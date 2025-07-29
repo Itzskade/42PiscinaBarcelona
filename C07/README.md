@@ -40,25 +40,25 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 
 ## 🧪 Consejos para testeo
 
-Verifica si la memoria fue correctamente reservada.
+    Verifica si la memoria fue correctamente reservada.
 
-Usa valgrind para asegurar que no hay fugas de memoria.
+    Usa valgrind para asegurar que no hay fugas de memoria.
 
-Prueba con distintos rangos, cadenas vacías y separadores complejos.
+    Prueba con distintos rangos, cadenas vacías y separadores complejos.
 
-Compara los resultados con los ejemplos del enunciado.
+    Compara los resultados con los ejemplos del enunciado.
 
 ---
 
 ## 📐 Normas de estilo
 
-Usa sangría con tabs, no espacios.
+    Usa sangría con tabs, no espacios.
 
-Nombres coherentes y descriptivos para funciones y variables.
+    Nombres coherentes y descriptivos para funciones y variables.
 
-Código estructurado, legible y bien documentado.
+    Código estructurado, legible y bien documentado.
 
-Cumple con la Norminette sin excepciones.
+    Cumple con la Norminette sin excepciones.
 
 ---
 
@@ -78,13 +78,13 @@ Cumple con la Norminette sin excepciones.
 
 ## 📌 Recomendaciones
 
-🔁 Haz commits frecuentes para documentar tu progreso.
+     Haz commits frecuentes para documentar tu progreso.
 
-💭 Comenta especialmente el manejo de memoria.
+     Comenta especialmente el manejo de memoria.
 
-🧠 Revisa documentación sobre bases numéricas y funciones de cadenas.
+     Revisa documentación sobre bases numéricas y funciones de cadenas.
 
-✂️ Usa funciones auxiliares para dividir responsabilidades.
+     Usa funciones auxiliares para dividir responsabilidades.
 
 ---
 
