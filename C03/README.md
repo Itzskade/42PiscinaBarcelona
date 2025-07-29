@@ -41,24 +41,24 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 ---
 
 ## 🧪 Consejos para testeo
-    Prueba con cadenas vacías, largas, y con caracteres especiales.
+    - Prueba con cadenas vacías, largas, y con caracteres especiales.
 
-    Verifica las diferencias entre cadenas similares o totalmente distintas.
+    - Verifica las diferencias entre cadenas similares o totalmente distintas.
 
-    Usa valgrind para verificar fugas de memoria si aplica.
+    - Usa valgrind para verificar fugas de memoria si aplica.
 
-    Compara el comportamiento con las funciones estándar.
+    - Compara el comportamiento con las funciones estándar.
 
 ---
 
 ## 📐 Normas de estilo
-    Usa tabs para sangrado, no espacios.
+    - Usa tabs para sangrado, no espacios.
 
-    Nombres coherentes y descriptivos.
+    - Nombres coherentes y descriptivos.
 
-    Sin funciones externas, excepto write donde esté permitido.
+    - Sin funciones externas, excepto write donde esté permitido.
 
-    Código legible, ordenado y modular.
+    - Código legible, ordenado y modular.
 
 ---
 
@@ -76,13 +76,13 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 ---
 
 ## 📌 Recomendaciones
-     Haz commits frecuentes y bien comentados.
+     - Haz commits frecuentes y bien comentados.
 
-     Consulta el man de cada función estándar para entender su comportamiento.
+     - Consulta el man de cada función estándar para entender su comportamiento.
 
-     Testea en profundidad antes de entregar.
+     - Testea en profundidad antes de entregar.
 
-     Participa en tu grupo de estudio para compartir avances y dudas.
+     - Participa en tu grupo de estudio para compartir avances y dudas.
 
 ---
 
