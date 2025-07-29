@@ -39,27 +39,27 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 
 ## 🧪 Consejos para testeo
 
-    Verifica que los headers se incluyan correctamente en los main.
+    - Verifica que los headers se incluyan correctamente en los main.
 
-    Asegúrate de que la memoria dinámica se libere correctamente.
+    - Asegúrate de que la memoria dinámica se libere correctamente.
 
-    Usa valgrind para detectar posibles fugas de memoria.
+    - Usa valgrind para detectar posibles fugas de memoria.
 
-    Testea tus macros con distintos valores y casos extremos.
+    - Testea tus macros con distintos valores y casos extremos.
 
-    Revisa que las salidas en consola sean exactamente como se pide.
+    - Revisa que las salidas en consola sean exactamente como se pide.
 
 ---
 
 ## 📐 Normas de estilo
 
-    Sangría con tabs, nunca con espacios.
+    - Sangría con tabs, nunca con espacios.
 
-    Usa nombres descriptivos y claros para tus funciones y variables.
+    - Usa nombres descriptivos y claros para tus funciones y variables.
 
-    Escribe código modular, limpio y comentado.
+    - Escribe código modular, limpio y comentado.
 
-    Pasa la Norminette sin excepciones y con flag -R CheckDefine donde se requiere.
+    - Pasa la Norminette sin excepciones y con flag -R CheckDefine donde se requiere.
 
 ---
 
@@ -78,13 +78,13 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 
 ## 📌 Recomendaciones
 
-     Haz commits constantes para registrar tu progreso.
+    - Haz commits constantes para registrar tu progreso.
 
-     Añade comentarios explicando el uso de macros y estructuras.
+    - Añade comentarios explicando el uso de macros y estructuras.
 
-     Revisa documentación sobre encabezados, macros y punteros.
+    - Revisa documentación sobre encabezados, macros y punteros.
 
-     Usa funciones auxiliares para mantener tu código organizado.
+    - Usa funciones auxiliares para mantener tu código organizado.
 
 ---
 
