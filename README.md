@@ -27,7 +27,11 @@ Este repositorio reúne todos los proyectos desarrollados durante mi participaci
 La **Piscina** es una prueba de selección de 26 días en la que se evalúa tu capacidad de aprendizaje autónomo, lógica, persistencia y colaboración. Los candidatos enfrentan una serie de ejercicios, proyectos y exámenes en un entorno técnico exigente y completamente inmersivo.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c7c50e99-c4a0-48f0-95be-cac223f3fc52" width="220">
+  <img src="https://github.com/user-attachments/assets/c7c50e99-c4a0-48f0-95be-cac223f3fc52" width="220">                   
+</p>
+
+<p align="right">
+<img src="https://github.com/user-attachments/assets/87c8311c-6b15-47f0-add1-d402699b3b76" width="220">
 </p>
 
 ---
@@ -104,11 +108,8 @@ Basado en mi vivencia en **42 Barcelona**, estos son algunos de los factores que
 | Rush02         | 1             | ⚠️           | ⚠️ Realizado/No entregado |
 | BSQ            | –             | ❌           | ❌ No entregado |
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/87c8311c-6b15-47f0-add1-d402699b3b76" width="220">
-</p>
-
 ---
+
 ## 📌 Lista de objetivos
 
 - ✅ Completar la Piscina  
