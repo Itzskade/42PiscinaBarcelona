@@ -48,11 +48,11 @@ Demostrar que el participante puede:
 ## 📖 Evaluación basada en experiencia personal
 
 Basado en mi vivencia en **42 Barcelona**, estos son algunos de los factores que considero relevantes para la evaluación:
-
+<img src="https://github.com/user-attachments/assets/87c8311c-6b15-47f0-add1-d402699b3b76" width="220" align="right">
 🔴 **Indispensables**
 - Aprobar exámenes semanales  
 - Mantener alta asistencia y participación  
-<img src="https://github.com/user-attachments/assets/87c8311c-6b15-47f0-add1-d402699b3b76" width="220" align="right">
+
 🟠 **Valiosos**
 - Ser creativo y aportar soluciones propias         
 - Seguir las normas del campus con responsabilidad        
