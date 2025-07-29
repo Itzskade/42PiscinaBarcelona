@@ -4,15 +4,15 @@ Este repositorio contiene los ejercicios del proyecto C02, centrado en la manipu
 ---
 
 ## 🎯 Objetivos del proyecto
-Reproducir el comportamiento de funciones estándar como strncpy, strlcpy, etc.
+- Reproducir el comportamiento de funciones estándar como strncpy, strlcpy, etc.
 
-Validar contenido de strings (alfabético, numérico, imprimible…)
+- Validar contenido de strings (alfabético, numérico, imprimible…)
 
-Transformar cadenas a mayúsculas, minúsculas y capitalizar palabras
+- Transformar cadenas a mayúsculas, minúsculas y capitalizar palabras
 
-Mostrar contenido de memoria en formato hexadecimal
+- Mostrar contenido de memoria en formato hexadecimal
 
-Respetar el estilo Norminette de 42
+- Respetar el estilo Norminette de 42
 
 ---
 
@@ -45,22 +45,22 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 ---
 
 ## 🧪 Consejos para testeo
-Prueba con strings vacíos, largos y con caracteres especiales.
+    Prueba con strings vacíos, largos y con caracteres especiales.
 
-Usa valgrind para verificar fugas de memoria si aplicara.
+    Usa valgrind para verificar fugas de memoria si aplicara.
 
-Verifica la salida esperada con echo $? o comparando con funciones estándar.
+    Verifica la salida esperada con echo $? o comparando con funciones estándar.
 
 --- 
 
 ## 📐 Normas de estilo
-Usa tabs para sangrado, no espacios.
+    Usa tabs para sangrado, no espacios.
 
-Nombres coherentes y descriptivos.
+    Nombres coherentes y descriptivos.
 
-Sin funciones externas, excepto write donde esté permitido.
+    Sin funciones externas, excepto write donde esté permitido.
 
-Estructura clara y legible en cada función.
+    Estructura clara y legible en cada función.
 
 ---
 
@@ -84,13 +84,13 @@ Estructura clara y legible en cada función.
 ---
 
 ## 📌 Recomendaciones
-🔄 Haz commits frecuentes y bien comentados.
+     Haz commits frecuentes y bien comentados.
 
-📖 Usa man para comprender el comportamiento de funciones C.
+     Usa man para comprender el comportamiento de funciones C.
 
-🧪 Testea en profundidad antes de entregar.
+     Testea en profundidad antes de entregar.
 
-💬 Colabora y participa activamente en tu grupo de estudio.
+     Colabora y participa activamente en tu grupo de estudio.
 
 ---
 
