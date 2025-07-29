@@ -38,6 +38,8 @@ La **Piscina** es una prueba de selección de 26 días en la que se evalúa tu c
 
 Demostrar que el participante puede:
 
+ <img src="https://github.com/user-attachments/assets/87c8311c-6b15-47f0-add1-d402699b3b76" width="220" align="right"> 
+ 
 - Aprender por sí mismo en condiciones reales  
 - Aplicar fundamentos de programación en C y UNIX  
 - Trabajar de manera constante y colaborativa  
