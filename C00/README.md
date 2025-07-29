@@ -30,6 +30,17 @@ Este repositorio contiene los ejercicios del proyecto **C00**, uno de los primer
 
 ---
 
+## 🔧 Instrucciones de compilación
+
+Compila cada ejercicio individualmente con:
+
+```bash
+gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
+```
+
+---
+
+
 ## 🔧 Requisitos técnicos
 
 - Solo se permite usar la función `write()`  
