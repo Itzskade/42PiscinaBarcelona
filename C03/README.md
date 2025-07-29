@@ -6,15 +6,15 @@ El objetivo es reproducir el comportamiento de funciones estándar, desarrolland
 ---
 
 ## 🎯 Objetivos del proyecto
-Reproducir funciones estándar como strcmp, strcat, strstr, etc.
+- Reproducir funciones estándar como strcmp, strcat, strstr, etc.
 
-Implementar comparaciones entre cadenas con y sin límites de caracteres.
+- Implementar comparaciones entre cadenas con y sin límites de caracteres.
 
-Concatenar cadenas de manera controlada y segura.
+- Concatenar cadenas de manera controlada y segura.
 
-Buscar substrings dentro de otras cadenas.
+- Buscar substrings dentro de otras cadenas.
 
-Respetar el estilo Norminette de 42.
+- Respetar el estilo Norminette de 42.
 
 ---
 
