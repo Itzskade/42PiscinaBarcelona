@@ -35,8 +35,6 @@ La **Piscina** es una prueba de selección de 26 días en la que se evalúa tu c
 ---
 
 ## 🎯 Objetivo de la Piscina
-
- <img src="https://github.com/user-attachments/assets/87c8311c-6b15-47f0-add1-d402699b3b76" width="220" align="right"> 
  
 Demostrar que el participante puede:
  
@@ -51,7 +49,10 @@ Demostrar que el participante puede:
 
 Basado en mi vivencia en **42 Barcelona**, estos son algunos de los factores que considero relevantes para la evaluación:
 
- <img src="https://github.com/user-attachments/assets/87c8311c-6b15-47f0-add1-d402699b3b76" width="220" align="right"> 
+<img src="https://github.com/user-attachments/assets/87c8311c-6b15-47f0-add1-d402699b3b76"
+     width="220"
+     align="right"
+     style="margin-top:30px;">
 
 🔴 **Indispensables**
 - Aprobar exámenes semanales  
