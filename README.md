@@ -52,7 +52,7 @@ Basado en mi vivencia en **42 Barcelona**, estos son algunos de los factores que
 <img src="https://github.com/user-attachments/assets/87c8311c-6b15-47f0-add1-d402699b3b76"
      width="220"
      align="right"
-     style="margin-top:50px;">
+     style="margin-top:200px;">
 
 🔴 **Indispensables**
 - Aprobar exámenes semanales  
