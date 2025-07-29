@@ -58,11 +58,15 @@ Este repositorio contiene los ejercicios del proyecto **C00**, uno de los primer
 
 ## 📌 Recomendaciones
 
-- 🔄 Haz commits frecuentes y descriptivos  
-- 🔍 Utiliza `man write` para entender bien la función autorizada  
-- 📐 Cumple con las normas de Norminette desde el principio  
-- 🧪 Testea tus funciones con distintos valores, incluidos extremos  
-- 🗣️ Si te bloqueas, colabora y pregunta — el entorno peer-to-peer es clave
+    -  Haz commits frecuentes y descriptivos  
+
+    -  Utiliza `man write` para entender bien la función autorizada  
+
+    -  Cumple con las normas de Norminette desde el principio  
+
+    -  Testea tus funciones con distintos valores, incluidos extremos  
+
+    -  Si te bloqueas, colabora y pregunta — el entorno peer-to-peer es clave
 
 ---
 
