@@ -3,11 +3,6 @@
 
 Este repositorio reúne todos los proyectos desarrollados durante mi participación en la **Piscina 42 Barcelona**, celebrada en julio de 2025. Es una experiencia técnica intensa enfocada en adquirir habilidades prácticas de programación en C, scripting en Bash, estructuras de datos y uso avanzado del sistema UNIX.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c7c50e99-c4a0-48f0-95be-cac223f3fc52" width="200">
-</p>
-
-
 ---
 
 ## 📜 Sobre 42
@@ -30,6 +25,10 @@ Este repositorio reúne todos los proyectos desarrollados durante mi participaci
 ## 💡 ¿Qué es la Piscina?
 
 La **Piscina** es una prueba de selección de 26 días en la que se evalúa tu capacidad de aprendizaje autónomo, lógica, persistencia y colaboración. Los candidatos enfrentan una serie de ejercicios, proyectos y exámenes en un entorno técnico exigente y completamente inmersivo.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c7c50e99-c4a0-48f0-95be-cac223f3fc52" width="200">
+</p>
 
 ---
 
