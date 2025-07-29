@@ -39,24 +39,24 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 ---
 
 ## 🧪 Consejos para testeo
-Prueba con entradas vacías, valores negativos y combinaciones de caracteres especiales.
+    Prueba con entradas vacías, valores negativos y combinaciones de caracteres especiales.
 
-Compara con funciones estándar (atoi, strlen, etc.) para verificar el comportamiento.
+    Compara con funciones estándar (atoi, strlen, etc.) para verificar el comportamiento.
 
-Verifica el manejo de bases inválidas en los ejercicios 04 y 05.
+    Verifica el manejo de bases inválidas en los ejercicios 04 y 05.
 
-Usa valgrind para comprobar que no haya fugas de memoria (si aplica).
+    Usa valgrind para comprobar que no haya fugas de memoria (si aplica).
 
 ---
 
 ## 📐 Normas de estilo
-Usa tabs para sangrado, no espacios.
+    Usa tabs para sangrado, no espacios.
 
-Nombres de variables coherentes y descriptivos.
+    Nombres de variables coherentes y descriptivos.
 
-No se permite el uso de funciones externas, salvo write donde esté autorizado.
+    No se permite el uso de funciones externas, salvo write donde esté autorizado.
 
-Código legible, estructurado y con claridad.
+    Código legible, estructurado y con claridad.
 
 ---
 
@@ -75,13 +75,15 @@ Código legible, estructurado y con claridad.
 ---
 
 ## 📌 Recomendaciones
-🔄 Haz commits frecuentes con comentarios descriptivos.
+     Haz commits frecuentes con comentarios descriptivos.
 
-📖 Consulta el man de funciones estándar para entender su funcionamiento.
+     Consulta el man de funciones estándar para entender su funcionamiento.
 
-💬 Comparte tus avances en el grupo de estudio.
+     Comparte tus avances en el grupo de estudio.
 
-🧠 Testea exhaustivamente antes de entregar.
+     Testea exhaustivamente antes de entregar.
+
+---
 
 ## 📜 Licencia
 Este proyecto forma parte del reto intensivo de programación en lenguaje C durante la Piscine 42. 
