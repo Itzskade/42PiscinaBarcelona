@@ -29,8 +29,6 @@ La **Piscina** es una prueba de selección de 26 días en la que se evalúa tu c
                                                                             
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c7c50e99-c4a0-48f0-95be-cac223f3fc52" width="220">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/87c8311c-6b15-47f0-add1-d402699b3b76" width="220">
 </p>
 
       
