@@ -49,15 +49,13 @@ Demostrar que el participante puede:
 
 Basado en mi vivencia en **42 Barcelona**, estos son algunos de los factores que considero relevantes para la evaluación:
 
+🔴 **Indispensables**
+- Aprobar exámenes semanales  
+- Mantener alta asistencia y participación  
 <img src="https://github.com/user-attachments/assets/87c8311c-6b15-47f0-add1-d402699b3b76"
      width="220"
      align="right"
      style="margin-top:30px;">
-
-🔴 **Indispensables**
-- Aprobar exámenes semanales  
-- Mantener alta asistencia y participación  
-
 🟠 **Valiosos**
 - Ser creativo y aportar soluciones propias         
 - Seguir las normas del campus con responsabilidad        
