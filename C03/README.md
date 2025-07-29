@@ -41,13 +41,13 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 ---
 
 ## 🧪 Consejos para testeo
-Prueba con cadenas vacías, largas, y con caracteres especiales.
+    Prueba con cadenas vacías, largas, y con caracteres especiales.
 
-Verifica las diferencias entre cadenas similares o totalmente distintas.
+    Verifica las diferencias entre cadenas similares o totalmente distintas.
 
-Usa valgrind para verificar fugas de memoria si aplica.
+    Usa valgrind para verificar fugas de memoria si aplica.
 
-Compara el comportamiento con las funciones estándar.
+    Compara el comportamiento con las funciones estándar.
 
 ---
 
