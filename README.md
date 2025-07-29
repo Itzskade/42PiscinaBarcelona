@@ -54,8 +54,8 @@ Basado en mi vivencia en **42 Barcelona**, estos son algunos de los factores que
 - Mantener alta asistencia y participación  
 
 🟠 **Valiosos**
-- Ser creativo y aportar soluciones propias  
-- Seguir las normas del campus con responsabilidad  
+- Ser creativo y aportar soluciones propias                
+- Seguir las normas del campus con responsabilidad        <img src="https://github.com/user-attachments/assets/87c8311c-6b15-47f0-add1-d402699b3b76" width="220">
 - Comunicarte y colaborar con otros piscineros  
 - Mostrar dedicación y motivación constantes  
 
