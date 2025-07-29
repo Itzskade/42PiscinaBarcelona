@@ -14,6 +14,16 @@ Este repositorio contiene los ejercicios del proyecto **C00**, uno de los primer
 
 ---
 
+## 🔧 Requisitos técnicos
+
+- Solo se permite usar la función `write()`  
+- No se permiten funciones estándar como `printf`, `puts`, etc.  
+- Código norminette-friendly: sangrado por tabs, nombres coherentes, claridad sintáctica  
+- Cada función debe seguir el prototipo indicado en el ejercicio  
+- Todos los ejercicios deben compilarse con `gcc -Wall -Wextra -Werror`
+
+---
+
 ## 📁 Tabla de ejercicios
 
 | Ejercicio | Descripción                                                   | Directorio | Archivo entregable         |
@@ -37,17 +47,6 @@ Compila cada ejercicio individualmente con:
 ```bash
 gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 ```
-
----
-
-
-## 🔧 Requisitos técnicos
-
-- Solo se permite usar la función `write()`  
-- No se permiten funciones estándar como `printf`, `puts`, etc.  
-- Código norminette-friendly: sangrado por tabs, nombres coherentes, claridad sintáctica  
-- Cada función debe seguir el prototipo indicado en el ejercicio  
-- Todos los ejercicios deben compilarse con `gcc -Wall -Wextra -Werror`
 
 ---
 
