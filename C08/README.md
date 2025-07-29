@@ -78,13 +78,13 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 
 ## 📌 Recomendaciones
 
-    🔁 Haz commits constantes para registrar tu progreso.
+     Haz commits constantes para registrar tu progreso.
 
-    💭 Añade comentarios explicando el uso de macros y estructuras.
+     Añade comentarios explicando el uso de macros y estructuras.
 
-    🔍 Revisa documentación sobre encabezados, macros y punteros.
+     Revisa documentación sobre encabezados, macros y punteros.
 
-    ✂️ Usa funciones auxiliares para mantener tu código organizado.
+     Usa funciones auxiliares para mantener tu código organizado.
 
 ---
 
