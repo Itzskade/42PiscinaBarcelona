@@ -95,7 +95,7 @@ Basado en mi vivencia en **42 Barcelona**, estos son algunos de los factores que
 | C13            | 8             | –            | ⚠️ No realizado |
 | Rush00         | 1             | 92/100       | ✅ Completado   |
 | Rush01         | 1             | 95/100       | ✅ Completado   |
-| Rush02         | 1             | 0/100        | ❌ No entregado |
+| Rush02         | 1             | 0/100        | ❌ Realizado/No entregado |
 | BSQ            | –             | ❌            | ❌ No entregado |
 
 ---
