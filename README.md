@@ -105,7 +105,7 @@ Basado en mi vivencia en **42 Barcelona**, estos son algunos de los factores que
 | BSQ            | –             | ❌           | ❌ No entregado |
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/87c8311c-6b15-47f0-add1-d402699b3b76"
+<img src="https://github.com/user-attachments/assets/87c8311c-6b15-47f0-add1-d402699b3b76 width="200">"
 </p>
 
 ---
