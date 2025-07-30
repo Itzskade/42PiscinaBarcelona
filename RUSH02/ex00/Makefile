@@ -1,47 +1,39 @@
-# 📁 Directorios
-SRC_DIR := src
-INC_DIR := include
-DAT_DIR := data
-OBJ_DIR := obj
+# Directorios usados
+SRC_DIR := src          # Carpeta donde están los archivos fuente (.c)
+OBJ_DIR := obj          # Carpeta donde se guardarán los archivos objeto (.o)
 
-# 📦 Archivos fuente y objeto
-SRCS := $(wildcard $(SRC_DIR)/*.c)
-OBJS := $(SRCS:$(SRC_DIR)/%.c=$(OBJ_DIR)/%.o)
-TARGET := rush-02
-DICT_FILE := $(DAT_DIR)/numbers.dict
+# Listado de archivos fuente y objetos
+SRCS := $(wildcard $(SRC_DIR)/*.c)                   # Lista todos los .c en SRC_DIR
+OBJS := $(SRCS:$(SRC_DIR)/%.c=$(OBJ_DIR)/%.o)        # Cambia extensión y carpeta para los .o
 
-# 🔧 Compilador y banderas
+TARGET := rush-02      # Nombre del ejecutable final
+
+# Compilador y flags
 CC := gcc
-CFLAGS := -Wall -I$(INC_DIR)
+CFLAGS := -Wall -Werror -Wextra   # Flags para mostrar warnings, tratarlos como errores y warnings extra
 
-# 🎯 Regla principal
+# Target por defecto: compilar todo
 all: $(TARGET)
 
+# Cómo generar el ejecutable a partir de los objetos
 $(TARGET): $(OBJS)
 	$(CC) $(OBJS) -o $@
 
-# 🛠️ Compilar objetos en obj/
+# Cómo compilar cada archivo objeto
+# Crea la carpeta OBJ_DIR si no existe
 $(OBJ_DIR)/%.o: $(SRC_DIR)/%.c
 	@mkdir -p $(OBJ_DIR)
 	$(CC) $(CFLAGS) -c $< -o $@
 
-# 📂 Validar diccionario
-check-dict:
-	@test -f $(DICT_FILE) || \
-	(echo "❌ Diccionario no encontrado en $(DICT_FILE)" && exit 1)
-
-# 🚀 Ejecutar con diccionario
-run: check-dict $(TARGET)
-	./$(TARGET) $(DICT_FILE)
-
-# 🧹 Limpieza
+# Limpia archivos objeto y ejecutable
 clean:
 	rm -rf $(OBJ_DIR) $(TARGET)
 
+# Limpieza completa (igual que clean aquí)
 fclean: clean
-	@echo "🧨 Limpieza total completada"
-	
+
+# Recompila todo desde cero
 re: fclean all
 
-# 🔖 Declarar phony targets
-.PHONY: all clean check-dict run
+# Indica que estos no son archivos
+.PHONY: all clean fclean re
