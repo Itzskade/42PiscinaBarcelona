@@ -1,39 +1,41 @@
 # Directorios usados
-SRC_DIR := src          # Carpeta donde están los archivos fuente (.c)
-OBJ_DIR := obj          # Carpeta donde se guardarán los archivos objeto (.o)
+SRC_DIR := src              # Archivos fuente (.c)
+OBJ_DIR := obj              # Archivos objeto (.o)
+INC_DIR := include          # Archivos header (.h)
+DAT_DIR := data             # Datos adicionales (opcional)
+
+# Nombre del ejecutable final
+TARGET := rush-02
 
 # Listado de archivos fuente y objetos
-SRCS := $(wildcard $(SRC_DIR)/*.c)                   # Lista todos los .c en SRC_DIR
-OBJS := $(SRCS:$(SRC_DIR)/%.c=$(OBJ_DIR)/%.o)        # Cambia extensión y carpeta para los .o
-
-TARGET := rush-02      # Nombre del ejecutable final
+SRCS := $(wildcard $(SRC_DIR)/*.c)                         # Todos los .c en SRC_DIR
+OBJS := $(SRCS:$(SRC_DIR)/%.c=$(OBJ_DIR)/%.o)              # Convierte src/foo.c → obj/foo.o
 
 # Compilador y flags
 CC := gcc
-CFLAGS := -Wall -Werror -Wextra   # Flags para mostrar warnings, tratarlos como errores y warnings extra
+CFLAGS := -Wall -Werror -Wextra -I$(INC_DIR)   # Warnings + incluye headers desde include/
 
-# Target por defecto: compilar todo
+# Target por defecto
 all: $(TARGET)
 
-# Cómo generar el ejecutable a partir de los objetos
+# Enlaza los archivos objeto para crear el ejecutable
 $(TARGET): $(OBJS)
 	$(CC) $(OBJS) -o $@
 
-# Cómo compilar cada archivo objeto
-# Crea la carpeta OBJ_DIR si no existe
+# Compilación de cada .c → .o en obj/, crea obj/ si no existe
 $(OBJ_DIR)/%.o: $(SRC_DIR)/%.c
 	@mkdir -p $(OBJ_DIR)
 	$(CC) $(CFLAGS) -c $< -o $@
 
-# Limpia archivos objeto y ejecutable
+# Borra archivos objeto y el ejecutable
 clean:
-	rm -rf $(OBJ_DIR) $(TARGET)
+	rm -rf $(OBJ_DIR)
 
-# Limpieza completa (igual que clean aquí)
 fclean: clean
+	rm -f $(TARGET)
 
-# Recompila todo desde cero
+# Borra todo y recompila desde cero
 re: fclean all
 
-# Indica que estos no son archivos
+# Declaración de targets no asociados a archivos
 .PHONY: all clean fclean re
