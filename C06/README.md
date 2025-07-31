@@ -37,24 +37,24 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 ---
 
 ## 🧪 Consejos para testeo
-    Prueba con distintos números y combinaciones de argumentos.
+    - Prueba con distintos números y combinaciones de argumentos.
 
-    Usa cat -e para visualizar saltos de línea correctamente.
+    - Usa cat -e para visualizar saltos de línea correctamente.
 
-    Verifica el orden y precisión del output comparando con los ejemplos dados.
+    - Verifica el orden y precisión del output comparando con los ejemplos dados.
 
-    Testea los ejercicios en entornos con argumentos vacíos o especiales.
+    - Testea los ejercicios en entornos con argumentos vacíos o especiales.
 
 ---
 
 ## 📐 Normas de estilo
-    Usa tabs para sangrado, no espacios.
+    - Usa tabs para sangrado, no espacios.
 
-    Nombres coherentes y descriptivos.
+    - Nombres coherentes y descriptivos.
 
-    Solo puede usarse write donde esté permitido.
+    - Solo puede usarse write donde esté permitido.
 
-    Código estructurado, legible y bien documentado.
+    - Código estructurado, legible y bien documentado.
 
 ---
 
