@@ -65,6 +65,17 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 
 ---
 
+## 📌 Recomendaciones
+     - Haz commits frecuentes y explica qué cambia.
+
+     - Consulta recursos como math.h o algoritmos clásicos para entender la lógica detrás de cada ejercicio.
+
+     - Comenta tu código cuando uses recursividad para que sea claro.
+
+     - Antes de entregar, asegúrate de que todos los inputs sean tratados correctamente.
+
+---
+
 ## 📋 Estado del proyecto
 
 | 🧩 Ejercicio | Enlace                                 | Completado | Entregado | Validación |
@@ -78,16 +89,6 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 | 06           | [ex06](./ex06/)                        | ✅ Sí      | ✅ Sí      | 100%       |
 | 07           | [ex07](./ex07/)                        | ✅ Sí      | ✅ Sí      | 100%       |
 | 08           | ex08                                   | ⬜ No      | ⬜ No      | —          |
-
-
-## 📌 Recomendaciones
-     - Haz commits frecuentes y explica qué cambia.
-
-     - Consulta recursos como math.h o algoritmos clásicos para entender la lógica detrás de cada ejercicio.
-
-     - Comenta tu código cuando uses recursividad para que sea claro.
-
-     - Antes de entregar, asegúrate de que todos los inputs sean tratados correctamente.
 
 ---
 
