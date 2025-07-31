@@ -62,16 +62,6 @@ sh libft_creator.sh
 
 ---
 
-## 📋 Estado del proyecto
-
-| 🧩 Ejercicio | Enlace                                      | Completado | Entregado | Validación |
-|--------------|---------------------------------------------|------------|-----------|------------|
-| 00           | [ex00](./ex00/)                             | ✅ Sí      | ✅ Sí     | 100%       |
-| 01           | [ex01](./ex01/)                             | ✅ Sí      | ✅ Sí     | 100%       |
-| 02           | [ex02](./ex02/)                             | ✅ Sí      | ✅ Sí     | 100%       |
-
----
-
 ## 📌 Recomendaciones
 
     - Haz commits constantes para registrar tu progreso.
@@ -81,6 +71,16 @@ sh libft_creator.sh
     - Revisa documentación sobre Makefiles y manipulación de cadenas.
 
     - Usa funciones auxiliares para mantener tu código organizado.
+
+---
+
+## 📋 Estado del proyecto
+
+| 🧩 Ejercicio | Enlace                                      | Completado | Entregado | Validación |
+|--------------|---------------------------------------------|------------|-----------|------------|
+| 00           | [ex00](./ex00/)                             | ✅ Sí      | ✅ Sí     | 100%       |
+| 01           | [ex01](./ex01/)                             | ✅ Sí      | ✅ Sí     | 100%       |
+| 02           | [ex02](./ex02/)                             | ✅ Sí      | ✅ Sí     | 100%       |
 
 ---
 
