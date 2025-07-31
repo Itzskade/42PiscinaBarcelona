@@ -301,6 +301,16 @@ make re    # Limpia y recompila
 
 ---
 
-## 💬 Créditos
+## 📜 Licencia
 
-Proyecto desarrollado como parte del curso intensivo Rush de 42 School. Estructurado para aprender manipulación de archivos, estructuras, y trabajo con strings en C.
+Este proyecto es parte del proceso de aprendizaje en la Piscine 42 y se entrega con fines educativos. 
+
+Puedes reutilizar el código con fines personales o como referencia.
+
+---
+
+## 🙋 Autor
+
+Desarrollado como parte del reto intensivo de programación en lenguaje C durante la Piscine 42.
+
+📧 Contacto: [rmarin-n@student.42barcelona.com](mailto:rmarin-n@student.42barcelona.com)
