@@ -62,6 +62,18 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 
 ---
 
+## 📌 Recomendaciones
+
+     - Haz commits frecuentes para documentar tu progreso.
+
+     - Comenta especialmente el manejo de memoria.
+
+     - Revisa documentación sobre bases numéricas y funciones de cadenas.
+
+     - Usa funciones auxiliares para dividir responsabilidades.
+
+---
+
 ## 📋 Estado del proyecto
 
 | 🧩 Ejercicio | Enlace         | Completado | Entregado | Validación |
@@ -73,18 +85,6 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 | 04           | [ex04](./ex04/) | ❌ No      | ❌ No      | -          |
 | 05           | [ex05](./ex05/) | ❌ No      | ❌ No      | -          |
 
-
----
-
-## 📌 Recomendaciones
-
-     - Haz commits frecuentes para documentar tu progreso.
-
-     - Comenta especialmente el manejo de memoria.
-
-     - Revisa documentación sobre bases numéricas y funciones de cadenas.
-
-     - Usa funciones auxiliares para dividir responsabilidades.
 
 ---
 
