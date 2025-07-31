@@ -87,8 +87,8 @@ char	**ft_split(char *str, char *charset)
 
 int main(void)
 {
-    char *str = "Hello,,world;this:is;Piscine!";
-    char *charset = ",;:";
+   char *str = "Hello,,world;this:is;Piscine!";
+   char *charset = ",;:";
 	 char **words = ft_split(str, charset);
 	 char **ptr = words;
     
