@@ -60,6 +60,17 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 
 ---
 
+## 📌 Recomendaciones
+     - Haz commits frecuentes con comentarios descriptivos.
+
+     - Consulta el man de funciones estándar para entender su funcionamiento.
+
+     - Comparte tus avances en el grupo de estudio.
+
+     - Testea exhaustivamente antes de entregar.
+
+---
+
 ## 📋 Estado del proyecto
 
 | 🧩 Ejercicio | Enlace         | Completado | Entregado | Validación |
@@ -74,16 +85,6 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 
 ---
 
-## 📌 Recomendaciones
-     - Haz commits frecuentes con comentarios descriptivos.
-
-     - Consulta el man de funciones estándar para entender su funcionamiento.
-
-     - Comparte tus avances en el grupo de estudio.
-
-     - Testea exhaustivamente antes de entregar.
-
----
 
 ## 📜 Licencia
 Este proyecto forma parte del reto intensivo de programación en lenguaje C durante la Piscine 42. 
