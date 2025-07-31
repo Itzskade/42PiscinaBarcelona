@@ -63,6 +63,18 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 
 ---
 
+## 📌 Recomendaciones
+
+    - Haz commits constantes para registrar tu progreso.
+
+    - Añade comentarios explicando el uso de macros y estructuras.
+
+    - Revisa documentación sobre encabezados, macros y punteros.
+
+    - Usa funciones auxiliares para mantener tu código organizado.
+
+---
+
 ## 📋 Estado del proyecto
 
 | 🧩 Ejercicio | Enlace                            | Completado | Entregado | Validación |
@@ -75,18 +87,6 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 | 05          | [ex05](./ex05)                     | ✅ Sí      | ✅ Sí     | 100%       |
 
 --- 
-
-## 📌 Recomendaciones
-
-    - Haz commits constantes para registrar tu progreso.
-
-    - Añade comentarios explicando el uso de macros y estructuras.
-
-    - Revisa documentación sobre encabezados, macros y punteros.
-
-    - Usa funciones auxiliares para mantener tu código organizado.
-
----
 
 ## 📜 Licencia
 
