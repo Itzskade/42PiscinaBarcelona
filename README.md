@@ -99,7 +99,7 @@ Basado en mi vivencia en **42 Barcelona**, estos son algunos de los factores que
 | C06            | 4             | 100/100      | ✅ Completado   |
 | C07            | 6             | 60/100       | ✅ Completado   |
 | C08            | 6             | 100/100      | ✅ Completado   |
-| C09            | 3             | 0/100        | ⏳ No realizado |
+| C09            | 3             | 100/100      | ✅ Completado   |
 | C10            | 4             | -            | ⏳ No realizado |
 | C11            | 8             | -            | ⏳ No realizado |
 | C12            | 18            | –            | ⏳ No realizado |
