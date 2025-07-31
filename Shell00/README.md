@@ -43,9 +43,9 @@ Este repositorio contiene los ejercicios del proyecto **Shell00** realizado dura
 
 Cada ejercicio puede ser probado usando la terminal local o el entorno remoto 42. Asegúrate de verificar:
 
-    - Permisos (`ls -l`)
-    - Comportamiento esperado (`cat`, `diff`, `find`, etc.)
-    - Estructura del `tar`
+- Permisos (`ls -l`)
+- Comportamiento esperado (`cat`, `diff`, `find`, etc.)
+- Estructura del `tar`
 
 ---
 ## 📋 Estado del proyecto
