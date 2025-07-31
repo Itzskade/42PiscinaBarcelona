@@ -30,11 +30,12 @@ Cada Rush consiste en implementar una función `rush(x, y)` que imprime en panta
 
 ## 🔧 Condiciones técnicas
 
-- Todos los archivos se compilan juntos mediante:  
-  `gcc -Wall -Wextra -Werror main.c rush0X.c ft_putchar.c`  
-- Solo se permite la función `write()`  
-- El código debe cumplir con las normas de Norminette  
-- La función principal debe tener esta estructura:  
+    - Todos los archivos se compilan juntos mediante:  
+        `gcc -Wall -Wextra -Werror main.c rush0X.c ft_putchar.c`  
+    - Solo se permite la función `write()`  
+    - El código debe cumplir con las normas de Norminette  
+    - La función principal debe tener esta estructura:  
+    
   ```c
   int main(void)
   {
@@ -42,7 +43,22 @@ Cada Rush consiste en implementar una función `rush(x, y)` que imprime en panta
       return (0);
   }
 
+ ```
 Durante la evaluación, main.c será modificado para verificar diferentes combinaciones como rush(1, 1), rush(5, 3), rush(123, 42), etc.
+
+---
+
+## 📌 Recomendaciones
+     - Evalúa visualmente cada posición (x, y) para decidir qué carácter imprimir
+
+     - Usa condiciones separadas para esquinas, bordes horizontales/verticales e interior
+
+     - Testea con valores pequeños, extremos y casos asimétricos
+
+     - Sigue las reglas de estilo desde el inicio para evitar correcciones posteriores
+
+     - Céntrate en la lógica antes de optimizar visualmente
+
 
 ## 📋 Estado del proyecto
 
@@ -54,14 +70,18 @@ Durante la evaluación, main.c será modificado para verificar diferentes combin
 | Rush03   | [Rush03](https://github.com/Itzskade/Piscina42/tree/main/RUSH00/ex00/rush03.c)                         | ✅ Sí      | ✅ Sí     | 100%       |
 | Rush04   | [Rush04](https://github.com/Itzskade/Piscina42/tree/main/RUSH00/ex00/rush04.c)                         | ✅ Sí      | ✅ Sí     | 100%       |
 
+---
 
-## 📌 Recomendaciones
-🎯 Evalúa visualmente cada posición (x, y) para decidir qué carácter imprimir
+## 📜 Licencia
 
-🔍 Usa condiciones separadas para esquinas, bordes horizontales/verticales e interior
+Este proyecto es parte del proceso de aprendizaje en la Piscine 42 y se entrega con fines educativos. 
 
-💬 Testea con valores pequeños, extremos y casos asimétricos
+Puedes reutilizar el código con fines personales o como referencia.
 
-✒️ Sigue las reglas de estilo desde el inicio para evitar correcciones posteriores
+---
 
-🧠 Céntrate en la lógica antes de optimizar visualmente
+## 🙋 Autor
+
+Desarrollado como parte del reto intensivo de programación en lenguaje C durante la Piscine 42.
+
+📧 Contacto: [rmarin-n@student.42barcelona.com](mailto:rmarin-n@student.42barcelona.com)
