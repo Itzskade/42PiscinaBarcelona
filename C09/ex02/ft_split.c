@@ -87,16 +87,16 @@ char	**ft_split(char *str, char *charset)
 
 int main(void)
 {
-    char **words;
     char *str = "Hello,,world;this:is;Piscine!";
     char *charset = ",;:";
-
-    words = ft_split(str, charset);
-
-    for (int i = 0; words[i] != NULL; i++)
+				char **words = ft_split(str, charset);
+				char **ptr = words;
+    
+    while (*ptr)
     {
-        printf("Word: %s\n", words[i]);
-        free(words[i]);
+        printf("Word: %s\n", *ptr);
+        free(*ptr);
+								ptr++;
     }
     free(words);
 
