@@ -44,13 +44,13 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 ---
 
 ## 🧪 Consejos para testeo
-    Prueba con valores límite, negativos y casos especiales.
+    - Prueba con valores límite, negativos y casos especiales.
 
-    Valida factoriales, potencias y raíces con calculadoras externas.
+    - Valida factoriales, potencias y raíces con calculadoras externas.
 
-    Testea con varios índices para la serie de Fibonacci.
+    - Testea con varios índices para la serie de Fibonacci.
 
-    Verifica el comportamiento de detección de primos con valores como 0, 1 y números grandes.
+    - Verifica el comportamiento de detección de primos con valores como 0, 1 y números grandes.
 
 ---
 
@@ -81,13 +81,13 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 
 
 ## 📌 Recomendaciones
-     Haz commits frecuentes y explica qué cambia.
+     - Haz commits frecuentes y explica qué cambia.
 
-     Consulta recursos como math.h o algoritmos clásicos para entender la lógica detrás de cada ejercicio.
+     - Consulta recursos como math.h o algoritmos clásicos para entender la lógica detrás de cada ejercicio.
 
-     Comenta tu código cuando uses recursividad para que sea claro.
+     - Comenta tu código cuando uses recursividad para que sea claro.
 
-     Antes de entregar, asegúrate de que todos los inputs sean tratados correctamente.
+     - Antes de entregar, asegúrate de que todos los inputs sean tratados correctamente.
 
 ---
 
