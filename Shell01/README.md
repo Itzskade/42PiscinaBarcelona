@@ -30,9 +30,9 @@ Este repositorio contiene todos los ejercicios del proyecto **Shell01**, parte d
 
 ## 🔧 Herramientas utilizadas
 
-- Comandos: `id`, `groups`, `find`, `basename`, `wc`, `ls`, `awk`, `sed`, `cut`, `tr`, `sort`, `rev`  
-- Variables de entorno: `$FT_USER`, `$FT_LINE1`, `$FT_LINE2`, `$FT_NBR1`, `$FT_NBR2`  
-- Estructuras: pipes (`|`), redirecciones (`>`, `>>`), control de saltos de línea
+    - Comandos: `id`, `groups`, `find`, `basename`, `wc`, `ls`, `awk`, `sed`, `cut`, `tr`, `sort`, `rev`  
+    - Variables de entorno: `$FT_USER`, `$FT_LINE1`, `$FT_LINE2`, `$FT_NBR1`, `$FT_NBR2`  
+    - Estructuras: pipes (`|`), redirecciones (`>`, `>>`), control de saltos de línea
 
 ---
 
@@ -65,11 +65,16 @@ Este repositorio contiene todos los ejercicios del proyecto **Shell01**, parte d
 
 
 ---
+## 📜 Licencia
 
-## 📌 Notas y reflexión
+Este proyecto forma parte del proceso de aprendizaje en la Piscine 42 Barcelona y se entrega con fines educativos.
 
-Los primeros ejercicios consolidan el control de comandos esenciales del shell. Los últimos —especialmente el 07 y el 08— incorporan lógica más avanzada y manipulación de datos poco convencional. Requieren un enfoque detallado, comprensión del flujo de datos y práctica con expresiones complejas.
-
-Este proyecto representa un paso importante dentro de la Piscina, reforzando la autonomía técnica y la capacidad de análisis para resolver problemas reales con Bash.
+El código puede utilizarse como referencia personal.
 
 ---
+
+## 🙋 Autor
+
+Desarrollado como parte del reto intensivo de programación en C durante la Piscine 42.
+
+📧 Contacto: rmarin-n@student.42barcelona.com
