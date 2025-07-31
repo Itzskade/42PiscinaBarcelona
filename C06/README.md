@@ -70,13 +70,13 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 ---
 
 ## 📌 Recomendaciones
-     Haz commits descriptivos y frecuentes.
+     - Haz commits descriptivos y frecuentes.
 
-     Comenta el código especialmente en los bucles y condiciones de ordenamiento.
+     - Comenta el código especialmente en los bucles y condiciones de ordenamiento.
 
-     Revisa ejemplos con diferentes cantidades de argumentos.
+     - Revisa ejemplos con diferentes cantidades de argumentos.
 
-     Consulta documentación de argc, argv, y write para reforzar conceptos.
+     - Consulta documentación de argc, argv, y write para reforzar conceptos.
 
 ---
 
