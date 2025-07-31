@@ -109,9 +109,6 @@ Copia los primeros `n` caracteres de `src` en `dest`.
 
 ### `utils2.c`
 
-#### `ft_bzero(s, n)`
-**Importante**: Esta función pone todos los bytes del bloque `s` a cero (básicamente limpia la memoria). Se usa para evitar basura en la memoria.
-
 #### `is_valid_number(str)`
 Verifica si el string contiene solo dígitos del 0 al 9.
 
