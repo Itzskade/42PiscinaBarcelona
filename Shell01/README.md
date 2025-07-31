@@ -30,9 +30,9 @@ Este repositorio contiene todos los ejercicios del proyecto **Shell01**, parte d
 
 ## 🔧 Herramientas utilizadas
 
-    - Comandos: `id`, `groups`, `find`, `basename`, `wc`, `ls`, `awk`, `sed`, `cut`, `tr`, `sort`, `rev`  
-    - Variables de entorno: `$FT_USER`, `$FT_LINE1`, `$FT_LINE2`, `$FT_NBR1`, `$FT_NBR2`  
-    - Estructuras: pipes (`|`), redirecciones (`>`, `>>`), control de saltos de línea
+Comandos: `id`, `groups`, `find`, `basename`, `wc`, `ls`, `awk`, `sed`, `cut`, `tr`, `sort`, `rev`  \
+Variables de entorno: `$FT_USER`, `$FT_LINE1`, `$FT_LINE2`, `$FT_NBR1`, `$FT_NBR2`  
+Estructuras: pipes (`|`), redirecciones (`>`, `>>`), control de saltos de línea
 
 ---
 
