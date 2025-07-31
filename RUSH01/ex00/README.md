@@ -65,9 +65,9 @@ El objetivo es colocar edificios con alturas del 1 al 4 en una cuadrícula, cump
 
 ## 📦 Reglas del Juego
 
-- Cada celda representa la altura de un edificio (valor 1 a 4).
-- Desde cada lado del tablero se cuenta cuántos edificios se ven (los más altos bloquean la vista de los más bajos).
-- Las pistas (*clues*) indican el número esperado de edificios visibles desde esa dirección.
+    - Cada celda representa la altura de un edificio (valor 1 a 4).
+    - Desde cada lado del tablero se cuenta cuántos edificios se ven (los más altos bloquean la vista de los más bajos).
+    - Las pistas (*clues*) indican el número esperado de edificios visibles desde esa dirección.
 
 ---
 
@@ -113,6 +113,20 @@ Salida esperada:
 - Si hay error en la entrada o no se encuentra solución, se muestra “Error”.
 
 ---
+
+## 📜 Licencia
+
+Este proyecto es parte del proceso de aprendizaje en la Piscine 42 y se entrega con fines educativos. 
+
+Puedes reutilizar el código con fines personales o como referencia.
+
+---
+
+## 🙋 Autor
+
+Desarrollado como parte del reto intensivo de programación en lenguaje C durante la Piscine 42.
+
+📧 Contacto: [rmarin-n@student.42barcelona.com](mailto:rmarin-n@student.42barcelona.com)
 
 
 ## 🧼 Gestión de Errores
