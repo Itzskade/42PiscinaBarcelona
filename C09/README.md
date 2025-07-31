@@ -52,7 +52,7 @@ sh libft_creator.sh
 
 ## 📐 Normas de estilo
 
-    - Sangría con tabs, nunca con espacios.
+    - Indentar el código usando tabs en lugar de espacios.
 
     - Usa nombres descriptivos y claros para tus funciones y variables.
 
