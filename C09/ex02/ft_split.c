@@ -94,9 +94,10 @@ int main(void)
     
     while (*ptr)
     {
-				printf("Word: %s\n", *ptr);
-				free(*ptr);
-	ptr++;
+
+		printf("Word: %s\n", *ptr);
+		free(*ptr);
+		ptr++;
     }
     free(words);
 
