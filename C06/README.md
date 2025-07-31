@@ -58,6 +58,17 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 
 ---
 
+## 📌 Recomendaciones
+     - Haz commits descriptivos y frecuentes.
+
+     - Comenta el código especialmente en los bucles y condiciones de ordenamiento.
+
+     - Revisa ejemplos con diferentes cantidades de argumentos.
+
+     - Consulta documentación de argc, argv, y write para reforzar conceptos.
+
+---
+
 ## 📋 Estado del proyecto
 
 | 🧩 Ejercicio | Enlace         | Completado | Entregado | Validación |
@@ -69,16 +80,6 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 
 ---
 
-## 📌 Recomendaciones
-     - Haz commits descriptivos y frecuentes.
-
-     - Comenta el código especialmente en los bucles y condiciones de ordenamiento.
-
-     - Revisa ejemplos con diferentes cantidades de argumentos.
-
-     - Consulta documentación de argc, argv, y write para reforzar conceptos.
-
----
 
 ## 📜 Licencia
 Este proyecto forma parte del proceso de aprendizaje en la Piscine 42 y se entrega con fines educativos.
