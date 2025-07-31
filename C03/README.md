@@ -62,6 +62,17 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 
 ---
 
+## 📌 Recomendaciones
+     - Haz commits frecuentes y bien comentados.
+
+     - Consulta el man de cada función estándar para entender su comportamiento.
+
+     - Testea en profundidad antes de entregar.
+
+     - Participa en tu grupo de estudio para compartir avances y dudas.
+
+---
+
 ## 📋 Estado del proyecto
 
 | 🧩 Ejercicio | Enlace                                   | Completado | Entregado | Validación |
@@ -75,16 +86,6 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 
 ---
 
-## 📌 Recomendaciones
-     - Haz commits frecuentes y bien comentados.
-
-     - Consulta el man de cada función estándar para entender su comportamiento.
-
-     - Testea en profundidad antes de entregar.
-
-     - Participa en tu grupo de estudio para compartir avances y dudas.
-
----
 
 ## 📜 Licencia
 Este proyecto forma parte del proceso de aprendizaje en la Piscine 42 y se entrega con fines educativos. 
