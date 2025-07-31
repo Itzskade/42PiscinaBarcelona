@@ -100,7 +100,6 @@ int main(void)
 		ptr++;
     }
     free(words);
-
     return 0;
 }
 */
