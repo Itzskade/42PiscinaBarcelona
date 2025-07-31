@@ -109,8 +109,15 @@ Salida esperada:
 
 ## ✅ Resultado esperado
 
-- Si el tablero es válido, se imprime la solución en consola, mostrando la matriz 4x4 con los números del 1 al 4.
-- Si hay error en la entrada o no se encuentra solución, se muestra “Error”.
+    - Si el tablero es válido, se imprime la solución en consola, mostrando la matriz 4x4 con los números del 1 al 4.
+    - Si hay error en la entrada o no se encuentra solución, se muestra “Error”.
+
+---
+
+## 🧼 Gestión de Errores
+
+    - Si hay errores en la entrada, pistas mal formateadas o memoria mal asignada, el programa imprime `"Error
+    "` y sale limpiamente.
 
 ---
 
@@ -128,8 +135,3 @@ Desarrollado como parte del reto intensivo de programación en lenguaje C durant
 
 📧 Contacto: [rmarin-n@student.42barcelona.com](mailto:rmarin-n@student.42barcelona.com)
 
-
-## 🧼 Gestión de Errores
-
-- Si hay errores en la entrada, pistas mal formateadas o memoria mal asignada, el programa imprime `"Error
-"` y sale limpiamente.
