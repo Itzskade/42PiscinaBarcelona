@@ -50,22 +50,6 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 
 ---
 
-## 📋 Estado del proyecto
-
-| 🧩 Ejercicio | Enlace                                                                                       | Completado | Entregado | Validación |
-|--------------|----------------------------------------------------------------------------------------------|------------|-----------|------------|
-| 00           | [ex00](https://github.com/Itzskade/Piscina42/tree/main/C00/ex00)                             | ✅ Sí      | ✅ Sí     | 100%       |
-| 01           | [ex01](https://github.com/Itzskade/Piscina42/tree/main/C00/ex01)                             | ✅ Sí      | ✅ Sí     | 100%       |
-| 02           | [ex02](https://github.com/Itzskade/Piscina42/tree/main/C00/ex02)                             | ✅ Sí      | ✅ Sí     | 100%       |
-| 03           | [ex03](https://github.com/Itzskade/Piscina42/tree/main/C00/ex03)                             | ✅ Sí      | ✅ Sí     | 100%       |
-| 04           | [ex04](https://github.com/Itzskade/Piscina42/tree/main/C00/ex04)                             | ✅ Sí      | ✅ Sí     | 100%       |
-| 05           | [ex05](https://github.com/Itzskade/Piscina42/tree/main/C00/ex05)                             | ✅ Sí      | ✅ Sí     | 100%       |
-| 06           | [ex06](https://github.com/Itzskade/Piscina42/tree/main/C00/ex06)                             | ✅ Sí      | ✅ Sí     | 100%       |
-| 07           | [ex07](https://github.com/Itzskade/Piscina42/tree/main/C00/ex07)                             | ✅ Sí      | ✅ Sí     | 100%       |
-| 08           | [ex08](https://github.com/Itzskade/Piscina42/tree/main/C00/ex08)                             | ✅ Sí      | ✅ Sí     | 100%       |
-
----
-
 ## 🧪 Consejos para testeo
     - Prueba con strings vacíos, largos y con caracteres especiales.
 
@@ -97,6 +81,22 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
     -  Testea tus funciones con distintos valores, incluidos extremos  
 
     -  Si te bloqueas, colabora y pregunta — el entorno peer-to-peer es clave
+
+---
+
+## 📋 Estado del proyecto
+
+| 🧩 Ejercicio | Enlace                                                                                       | Completado | Entregado | Validación |
+|--------------|----------------------------------------------------------------------------------------------|------------|-----------|------------|
+| 00           | [ex00](https://github.com/Itzskade/Piscina42/tree/main/C00/ex00)                             | ✅ Sí      | ✅ Sí     | 100%       |
+| 01           | [ex01](https://github.com/Itzskade/Piscina42/tree/main/C00/ex01)                             | ✅ Sí      | ✅ Sí     | 100%       |
+| 02           | [ex02](https://github.com/Itzskade/Piscina42/tree/main/C00/ex02)                             | ✅ Sí      | ✅ Sí     | 100%       |
+| 03           | [ex03](https://github.com/Itzskade/Piscina42/tree/main/C00/ex03)                             | ✅ Sí      | ✅ Sí     | 100%       |
+| 04           | [ex04](https://github.com/Itzskade/Piscina42/tree/main/C00/ex04)                             | ✅ Sí      | ✅ Sí     | 100%       |
+| 05           | [ex05](https://github.com/Itzskade/Piscina42/tree/main/C00/ex05)                             | ✅ Sí      | ✅ Sí     | 100%       |
+| 06           | [ex06](https://github.com/Itzskade/Piscina42/tree/main/C00/ex06)                             | ✅ Sí      | ✅ Sí     | 100%       |
+| 07           | [ex07](https://github.com/Itzskade/Piscina42/tree/main/C00/ex07)                             | ✅ Sí      | ✅ Sí     | 100%       |
+| 08           | [ex08](https://github.com/Itzskade/Piscina42/tree/main/C00/ex08)                             | ✅ Sí      | ✅ Sí     | 100%       |
 
 ---
 
