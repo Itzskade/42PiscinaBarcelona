@@ -64,6 +64,17 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 
 ---
 
+## 📌 Recomendaciones
+     - Haz commits frecuentes y bien comentados.
+
+     - Usa man para comprender el comportamiento de funciones C.
+
+     - Testea en profundidad antes de entregar.
+
+     - Colabora y participa activamente en tu grupo de estudio.
+
+---
+
 ## 📋 Estado del proyecto
 
 | 🧩 Ejercicio | Enlace                                                                                       | Completado | Entregado | Validación |
@@ -80,17 +91,6 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 | 10           | [ex10](https://github.com/Itzskade/Piscina42/tree/main/C02/ex10)                             | ✅ Sí      | ✅ Sí     | 100%       |
 | 11           | [ex11](https://github.com/Itzskade/Piscina42/tree/main/C02/ex11)                             | ✅ Sí      | ✅ Sí     | 100%       |
 | 12           | [ex12](https://github.com/Itzskade/Piscina42/tree/main/C02/ex12)                             | ❌ No      | ❌ No     | —          |
-
----
-
-## 📌 Recomendaciones
-     - Haz commits frecuentes y bien comentados.
-
-     - Usa man para comprender el comportamiento de funciones C.
-
-     - Testea en profundidad antes de entregar.
-
-     - Colabora y participa activamente en tu grupo de estudio.
 
 ---
 
