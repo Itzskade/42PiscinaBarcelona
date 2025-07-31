@@ -96,7 +96,7 @@ int main(void)
     {
         printf("Word: %s\n", *ptr);
         free(*ptr);
-								ptr++;
+									ptr++;
     }
     free(words);
 
