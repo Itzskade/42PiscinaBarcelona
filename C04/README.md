@@ -50,7 +50,7 @@ gcc -Wall -Wextra -Werror exXX/archivo.c -o nombre_programa
 ---
 
 ## 📐 Normas de estilo
-    - Usa tabs para sangrado, no espacios.
+    - Indentar el código usando tabs en lugar de espacios.
 
     - Nombres de variables coherentes y descriptivos.
 
