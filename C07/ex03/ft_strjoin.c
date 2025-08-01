@@ -40,9 +40,7 @@ void cpy_all(int size, char **strs, char *sep, char *cpy)
 {
 	int		i;
 	int		j;
-	char	*ptr;
 
-	ptr = cpy;
 	i = -1;
 	while (++i < size)
 	{
