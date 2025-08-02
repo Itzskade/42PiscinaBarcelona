@@ -18,9 +18,7 @@ int	ft_strlen(char *str)
 
 	start = str;
 	while (*str)
-	{
 		str++;
-	}
 	return (str - start);
 }
 /*
