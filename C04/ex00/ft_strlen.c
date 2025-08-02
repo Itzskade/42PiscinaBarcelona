@@ -32,7 +32,7 @@ int	main(int argc, char **argv)
 	}
 	
 	length = ft_strlen(argv[1]);
-	printf("%s\n El tamanyo de la string es de \n%i\n", argv[1], length);
+	printf("%s\n El tamaño de la string es de \n%i\n", argv[1], length);
 	return (0);
 }
 */
