@@ -1,6 +1,5 @@
-
-
 # 🧠 Piscina 42 – Julio 2025 🇪🇸  
+
 <div align="right">
 [![English README](https://img.shields.io/badge/🌐%20English-README-blue?style=for-the-badge)](en.README.md)
 
