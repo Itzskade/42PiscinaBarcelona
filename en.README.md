@@ -1,7 +1,11 @@
+<p align="right">
+  <a href="en.README.md">
+    <img src="https://img.shields.io/badge/🌐%20Spanish-README-blue?style=for-the-badge" alt="Spanish README" />
+  </a>
+</p>
+
 # 🧠 42 Piscine – July 2025 🇪🇸  
 **Campus: 42 Barcelona**
-
-[![Spanish README](https://img.shields.io/badge/🌐%20Spanish-README-blue?style=for-the-badge)](README.md)
 
 This repository gathers all the projects developed during my participation in the **42 Barcelona Piscine**, held in July 2025. It is an intense technical experience focused on gaining practical skills in C programming, Bash scripting, data structures, and advanced UNIX usage.
 
