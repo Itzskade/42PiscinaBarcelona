@@ -1,9 +1,9 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h1>🧠 Piscina 42 – Julio 2025 🇪🇸</h1>
-  <a href="en.README.md">
-    <img src="https://img.shields.io/badge/🌐%20English-README-blue?style=for-the-badge">
-  </a>
-</div>
+# 🧠 Piscina 42 – Julio 2025 🇪🇸
+
+<p align="right">
+  [![English README](https://img.shields.io/badge/🌐%20English-README-blue?style=for-the-badge)](en.README.md)
+</p>
+
 
 **Campus: 42 Barcelona**
 
