@@ -1,4 +1,4 @@
-# 🧠 Piscina 42 – Julio 2025 🇪🇸 
+
 
 <p align="right">
   <a href="en.README.md">
@@ -7,7 +7,7 @@
 </p>
 
 
-
+# 🧠 Piscina 42 – Julio 2025 🇪🇸 
 
 
 **Campus: 42 Barcelona**
