@@ -1,7 +1,8 @@
-# 🧠 Piscina 42 – Julio 2025 🇪🇸  
+# 🧠 Piscina 42 – Julio 2025 🇪🇸  <p align=right
+[![English README](https://img.shields.io/badge/🌐%20English-README-blue?style=for-the-badge)](en.README.md)
 **Campus: 42 Barcelona**
 
-[![English README](https://img.shields.io/badge/🌐%20English-README-blue?style=for-the-badge)](en.README.md)
+
 
 Este repositorio reúne todos los proyectos desarrollados durante mi participación en la **Piscina 42 Barcelona**, celebrada en julio de 2025. Es una experiencia técnica intensa enfocada en adquirir habilidades prácticas de programación en C, scripting en Bash, estructuras de datos y uso avanzado del sistema UNIX.
 
