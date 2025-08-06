@@ -1,10 +1,4 @@
-# 🧠 Piscina 42 – Julio 2025 🇪🇸        [![English README](https://img.shields.io/badge/🌐%20English-README-blue?style=for-the-badge)](en.README.md)
-
-<td align="right">
-
-
-
-</td>
+# 🧠 Piscina 42 – Julio 2025 🇪🇸       <td align="right"> [![English README](https://img.shields.io/badge/🌐%20English-README-blue?style=for-the-badge)](en.README.md) </td>
 
 
 **Campus: 42 Barcelona**
