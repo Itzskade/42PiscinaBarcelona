@@ -8,7 +8,6 @@
 **Campus: 42 Barcelona**
 
 
-
 Este repositorio reúne todos los proyectos desarrollados durante mi participación en la **Piscina 42 Barcelona**, celebrada en julio de 2025. Es una experiencia técnica intensa enfocada en adquirir habilidades prácticas de programación en C, scripting en Bash, estructuras de datos y uso avanzado del sistema UNIX.
 
 ---
