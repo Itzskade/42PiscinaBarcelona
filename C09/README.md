@@ -93,7 +93,9 @@ El código puede utilizarse como referencia personal.
 ---
 
 ## 🙋 Autor
-
 Desarrollado como parte del reto intensivo de programación en C durante la Piscine 42.
 
-📧 Contacto: rmarin-n@student.42barcelona.com
+---
+
+## 📧 Contacto
+[rmarin-n@student.42barcelona.com](mailto:rmarin-n@student.42barcelona.com)
