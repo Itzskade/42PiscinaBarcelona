@@ -96,9 +96,9 @@ It is submitted for educational purposes and may be reused as a personal referen
 ---
 
 ## 🙋 Author
-
 Developed as part of the learning process during the 42 Piscine.
 
-📧 Contact: rmarin-n@student.42barcelona.com
-
 ---
+
+## 📧 Contact
+[rmarin-n@student.42barcelona.com](mailto:rmarin-n@student.42barcelona.com)
