@@ -96,4 +96,7 @@ Se entrega con fines educativos y puede ser reutilizado como referencia personal
 ## 🙋 Autor
 Desarrollado como parte del proceso de aprendizaje en la Piscine 42.
 
-📧 Contacto: rmarin-n@student.42barcelona.com
+---
+
+## 📧 Contacto
+📧 Contacto: [rmarin-n@student.42barcelona.com](mailto:rmarin-n@student.42barcelona.com)
