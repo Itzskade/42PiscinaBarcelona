@@ -84,6 +84,22 @@ gcc -Wall -Wextra -Werror exXX/file.c -o program_name
 
 ---
 
+## 📋 Project Status
+
+| 🧩 Exercise | Folder       | Completed | Submitted | Validation |
+|-------------|--------------|-----------|-----------|------------|
+| 00          | [ex00](./ex00) | ✅ Yes  | ✅ Yes  | 100%       |
+| 01          | [ex01](./ex01) | ✅ Yes  | ✅ Yes  | 100%       |
+| 02          | [ex02](./ex02) | ✅ Yes  | ✅ Yes  | 100%       |
+| 03          | [ex03](./ex03) | ✅ Yes  | ✅ Yes  | 100%       |
+| 04          | [ex04](./ex04) | ✅ Yes  | ✅ Yes  | 100%       |
+| 05          | [ex05](./ex05) | ✅ Yes  | ✅ Yes  | 100%       |
+| 06          | [ex06](./ex06) | ✅ Yes  | ✅ Yes  | 100%       |
+| 07          | [ex07](./ex07) | ✅ Yes  | ✅ Yes  | 100%       |
+| 08          | [ex08](./ex08) | ✅ Yes  | ✅ Yes  | 100%       |
+
+---
+
 ## 📜 License
 This project is part of the learning process during the 42 Piscine and is submitted for educational purposes. You may reuse the code for personal use or as reference.
 
