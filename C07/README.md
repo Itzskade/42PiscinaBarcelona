@@ -102,6 +102,5 @@ Desarrollado como parte del reto intensivo de programación en lenguaje C durant
 
 ---
 
-## 📧 Contacto: 
-
+## 📧 Contacto
 rmarin-n@student.42barcelona.com
