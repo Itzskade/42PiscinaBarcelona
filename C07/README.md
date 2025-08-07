@@ -1,4 +1,4 @@
-## 💡 Project C07
+# 💡 Project C07
 
 This repository contains the exercises for Project C07, focused on dynamic memory manipulation using `malloc`, arrays, strings, and numeric conversions in the C language.
 
