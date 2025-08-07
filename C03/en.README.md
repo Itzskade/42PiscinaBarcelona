@@ -43,8 +43,11 @@ gcc -Wall -Wextra -Werror exXX/file.c -o program_name
 ## 🧪 Testing Tips
 
     - Test with empty strings, long strings, and special characters  
+    
     - Check differences between similar and completely different strings  
+    
     - Use valgrind to check for memory leaks if applicable  
+    
     - Compare behavior with standard functions
 
 ---
@@ -52,8 +55,11 @@ gcc -Wall -Wextra -Werror exXX/file.c -o program_name
 ## 📐 Style Guidelines
 
     - Indent code using tabs instead of spaces  
+    
     - Use coherent and descriptive names  
+    
     - No external functions allowed, except `write` where permitted  
+    
     - Code should be readable, organized, and modular
 
 ---
@@ -61,8 +67,11 @@ gcc -Wall -Wextra -Werror exXX/file.c -o program_name
 ## 📌 Recommendations
 
     - Make frequent and well-commented commits  
+    
     - Check the `man` page of each standard function to understand its behavior  
+    
     - Test thoroughly before submitting  
+    
     - Participate in your study group to share progress and questions
 
 ---
