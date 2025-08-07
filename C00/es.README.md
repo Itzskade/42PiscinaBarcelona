@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/🌐%20English-README-blue?style=for-the-badge" alt="English README" />
+  </a>
+</p>
+
 # 💻 Proyecto C00 
 
 Este repositorio contiene los ejercicios del proyecto **C00**, uno de los primeros bloques del aprendizaje en lenguaje C durante la Piscina 42.
