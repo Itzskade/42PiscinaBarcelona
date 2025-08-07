@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/🌐%20English-README-blue?style=for-the-badge" alt="English README" />
+  </a>
+</p>
+
 # 💡 Proyecto C Piscine C 08
 
 Este repositorio contiene todos los ejercicios del proyecto C Piscine C 08, centrado en el trabajo con estructuras, macros, encabezados y arrays dinámicos en lenguaje C. Todos los ejercicios han sido completados exitosamente.
