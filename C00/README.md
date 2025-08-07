@@ -114,4 +114,8 @@ Puedes reutilizar el código con fines personales o como referencia.
 
 Desarrollado como parte del reto intensivo de programación en lenguaje C durante la Piscine 42.
 
+---
+
+## 📧 Contacto
+
 📧 Contacto: [rmarin-n@student.42barcelona.com](mailto:rmarin-n@student.42barcelona.com)
