@@ -92,7 +92,7 @@ The code may be used as a personal reference.
 
 ---
 
-##🙋 Author
+## 🙋 Author
 
 Developed as part of the intensive C programming challenge during the 42 Piscine.
 
