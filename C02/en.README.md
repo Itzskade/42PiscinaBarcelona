@@ -104,6 +104,8 @@ You may reuse the code for personal use or as reference.
 
 Developed as part of the intensive C programming challenge during the 42 Piscine.
 
-📧 Contact: rmarin-n@student.42barcelona.com
-
 ---
+
+## 📧 Contact
+[rmarin-n@student.42barcelona.com](mailto:rmarin-n@student.42barcelona.com)
+
