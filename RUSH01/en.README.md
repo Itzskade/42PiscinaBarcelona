@@ -24,20 +24,20 @@ The goal is to place buildings with heights from 1 to 4 in a grid, following two
 
 ## 🧠 Program Flow
 
-1️⃣ main.c
+#### 1️⃣ main.c
     └─ Starts the program.
     └─ Calls parse_input(...) to validate and extract the 16 clues.
 
-2️⃣ grid.c
+#### 2️⃣ grid.c
     └─ init_grid(...) allocates memory for grid[4][4] and initializes it to zero
 
-3️⃣ solver.c
+#### 3️⃣ solver.c
     └─ solve(...) iterates cell by cell and tries values using backtracking
         └─ is_safe(...) checks for duplicates in row/column
         └─ is_valid_grid(...) ensures the grid respects the clues
             └─ check_views(...) calls functions from check.c
 
-4️⃣ check.c
+#### 4️⃣ check.c
     └─ check_views(...) calls:
         ├─ check_row_left(...)    → view from the left
         ├─ check_row_right(...)   → view from the right
@@ -45,21 +45,21 @@ The goal is to place buildings with heights from 1 to 4 in a grid, following two
         └─ check_col_down(...)    → view from the bottom
             └─ Each function reconstructs a line and calls validate_line(...)
 
-5️⃣ solver.c
+#### 5️⃣ solver.c
     └─ count_visible(...) calculates how many buildings are visible in a line
     └─ validate_line(...) compares result with expected clue
 
-6️⃣ grid.c
+#### 6️⃣ grid.c
     └─ print_grid(...) prints the solution if found
 
-7️⃣ utils.c
+#### 7️⃣ utils.c
     ├─ write_error(...) displays “Error” if input is invalid or no solution exists
     └─ ft_putchar(...) used for matrix printing
 
-8️⃣ grid.c
+#### 8️⃣ grid.c
     └─ free_grid(...) frees dynamic memory at the end
 
-✅ Final: the program prints the solution or shows “Error” if it fails
+#### ✅ Final: the program prints the solution or shows “Error” if it fails
 
 ---
 
