@@ -51,36 +51,36 @@ gcc -Wall -Wextra -Werror exXX/file.c -o program_name
 ---
 
 ## 🧪 Testing Tips
-Test with empty strings, long strings, and special characters
+    - Test with empty strings, long strings, and special characters
 
-Use valgrind to check for memory leaks if applicable
+    - Use valgrind to check for memory leaks if applicable
 
-Verify expected output using echo $? or by comparing with standard functions
+    - Verify expected output using echo $? or by comparing with standard functions
 
 
 ---
 
 ## 📐 Style Guidelines
-Indent code using tabs instead of spaces
+    - Indent code using tabs instead of spaces
 
-Use coherent and descriptive names
+    - Use coherent and descriptive names
 
-No external functions allowed, except write where permitted
+    - No external functions allowed, except write where permitted
 
-Clear and readable structure in each function
+    - Clear and readable structure in each function
 
 ---
 
 ## 📌 Recommendations
-Make frequent and descriptive commits
+    - Make frequent and descriptive commits
 
-Use man write to fully understand the authorized function
+    - Use man write to fully understand the authorized function
 
-Follow Norminette rules from the beginning
+    - Follow Norminette rules from the beginning
 
-Test your functions with various values, including edge cases
+    - Test your functions with various values, including edge cases
 
-If you're stuck, collaborate and ask — peer-to-peer support is key
+    - If you're stuck, collaborate and ask — peer-to-peer support is key
 
 ---
 
