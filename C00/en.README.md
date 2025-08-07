@@ -110,4 +110,7 @@ This project is part of the learning process during the 42 Piscine and is submit
 ## 🙋 Author
 Developed as part of the intensive C programming challenge during the 42 Piscine.
 
-📧 Contact: rmarin-n@student.42barcelona.com
+---
+
+## 📧 Contact
+[rmarin-n@student.42barcelona.com](mailto:rmarin-n@student.42barcelona.com)
