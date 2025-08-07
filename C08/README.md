@@ -103,5 +103,6 @@ Desarrollado como parte del reto intensivo de programación en C durante la Pisc
 ---
 
 ## 📧 Contacto
+
 [rmarin-n@student.42barcelona.com](mailto:rmarin-n@student.42barcelona.com)
 
