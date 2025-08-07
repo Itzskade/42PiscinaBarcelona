@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/🌐%20English-README-blue?style=for-the-badge" alt="English README" />
+  </a>
+</p>
+
 # 💡 Proyecto C04
 
 Este repositorio contiene los ejercicios del proyecto C04, centrado en la manipulación de números y conversión de cadenas en lenguaje C. 
