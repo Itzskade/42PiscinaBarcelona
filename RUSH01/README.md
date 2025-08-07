@@ -130,8 +130,10 @@ Puedes reutilizar el código con fines personales o como referencia.
 ---
 
 ## 🙋 Autor
-
 Desarrollado como parte del reto intensivo de programación en lenguaje C durante la Piscine 42.
 
-📧 Contacto: [rmarin-n@student.42barcelona.com](mailto:rmarin-n@student.42barcelona.com)
+---
+
+## 📧 Contacto
+[rmarin-n@student.42barcelona.com](mailto:rmarin-n@student.42barcelona.com)
 
