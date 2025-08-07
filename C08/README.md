@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="es.README.md">
+    <img src="https://img.shields.io/badge/🌐%20Spanish-README-blue?style=for-the-badge" alt="Spanish README" />
+  </a>
+</p>
+
 # 💡 Project C Piscine C08
 
 This repository contains all the exercises for Project C Piscine C08, focused on working with structures, macros, headers, and dynamic arrays in the C language. All exercises have been successfully completed.
