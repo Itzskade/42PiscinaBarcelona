@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/🌐%20English-README-blue?style=for-the-badge" alt="English README" />
+  </a>
+</p>
+
 # 💡 Proyecto C01
 
 Este repositorio contiene los ejercicios del proyecto **C01**, centrado en el uso de punteros, funciones, arrays y operaciones matemáticas básicas en lenguaje C. Es el siguiente paso para dominar las bases de programación funcional y la manipulación de memoria.
