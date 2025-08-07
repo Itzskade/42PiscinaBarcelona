@@ -253,7 +253,9 @@ Tripletes: ["001", "234", "567"]
 ## 🧹 Limpieza y Memoria
 
 - `malloc` se usa en muchos sitios → Siempre que se crea memoria dinámica, hay que liberar con `free`.
+- 
 - `ft_bzero` limpia buffers para evitar basura.
+- 
 - `free_dict`, `free_lines` aseguran que no haya **memory leaks**.
 
 ---
