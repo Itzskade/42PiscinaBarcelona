@@ -97,27 +97,18 @@ $ gcc *.c -o skyscraper
 $ ./skyscraper "4 3 2 1 1 2 2 2 2 2 1 3 3 2 1 2"
 ```
 
-Salida esperada:
+---
+
+## ✅ Resultado esperado
+
+    - Si el tablero es válido, se imprime la solución en consola, mostrando la matriz 4x4 con los números del 1 al 4.
 ```
 1 2 3 4
 4 3 2 1
 2 1 4 3
 3 4 1 2
 ```
-
----
-
-## ✅ Resultado esperado
-
-    - Si el tablero es válido, se imprime la solución en consola, mostrando la matriz 4x4 con los números del 1 al 4.
     - Si hay error en la entrada o no se encuentra solución, se muestra “Error”.
-
----
-
-## 🧼 Gestión de Errores
-
-    - Si hay errores en la entrada, pistas mal formateadas o memoria mal asignada, el programa imprime `"Error
-    "` y sale limpiamente.
 
 ---
 
