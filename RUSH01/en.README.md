@@ -79,14 +79,6 @@ $ gcc *.c -o skyscraper
 $ ./skyscraper "4 3 2 1 1 2 2 2 4 3 2 1 1 2 2 2"
 ```
 
-## Expected Output
-
-1 2 3 4
-4 3 2 1
-2 1 4 3
-3 4 1 2
-
-
 ## ✅ Expected Result
     - If the grid is valid, the solution is printed to the console as a 4x4 matrix with numbers from 1 to 4.
 ```
