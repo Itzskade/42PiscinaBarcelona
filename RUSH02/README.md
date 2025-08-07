@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="es.README.md">
+    <img src="https://img.shields.io/badge/🌐%20Spanish-README-blue?style=for-the-badge" alt="Spanish README" />
+  </a>
+</p>
+
 # 📘 Rush 02 Project – Number to Words Converter
 
 This project converts a given number (as an argument) into its English word representation using a custom dictionary file.
