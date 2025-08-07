@@ -44,24 +44,32 @@ gcc -Wall -Wextra -Werror exXX/file.c -o program_name
 ## 🧪 Testing Tips
 
     - Test with empty strings, long strings, and special characters.  
+
     - Use valgrind to check for memory leaks if applicable.  
+    
     - Verify expected output using `echo $?` or by comparing with standard functions.
 
 ---
 
 ## 📐 Style Guidelines
 
-    - Indent code using tabs instead of spaces.  
+    - Indent code using tabs instead of spaces. 
+    
     - Use coherent and descriptive names.  
+    
     - No external functions allowed, except `write` where permitted.  
+    
     - Clear and readable structure in each function.
 
 ---
 
 ## 📌 Recommendations
     - Make frequent and well-commented commits.  
+    
     - Use `man` to understand the behavior of C functions.
+    
     - Test thoroughly before submitting.  
+    
     - Collaborate and actively participate in your study group.
 
 ---
