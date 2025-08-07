@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/🌐%20English-README-blue?style=for-the-badge" alt="English README" />
+  </a>
+</p>
+
 # 📐 Proyecto RUSH00
 
 Este repositorio incluye las soluciones a los proyectos **Rush00** hasta **Rush04**, desarrollados como parte del programa intensivo de la Piscina C.
