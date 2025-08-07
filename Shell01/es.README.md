@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="en.README.md">
+    <img src="https://img.shields.io/badge/🌐%20English-README-blue?style=for-the-badge" alt="English README" />
+  </a>
+</p>
+
 # 🐚 Proyecto Shell01
 
 Este repositorio contiene todos los ejercicios del proyecto **Shell01**, parte del trayecto técnico de la Piscina 42. El propósito es fortalecer las habilidades en scripting de Bash, manipulación de entorno UNIX, procesamiento de texto, filtrado de archivos y lógica algorítmica con herramientas del terminal.
