@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/🌐%20English-README-blue?style=for-the-badge" alt="English README" />
+  </a>
+</p>
+
 # 💡 Proyecto C Piscine C 09
 
 Este repositorio contiene todos los ejercicios del proyecto **C Piscine C 09**, centrado en la creación de bibliotecas, automatización con Makefile y manipulación avanzada de cadenas en lenguaje C.
