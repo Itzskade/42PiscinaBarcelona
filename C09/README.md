@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="es.README.md">
+    <img src="https://img.shields.io/badge/🌐%20Spanish-README-blue?style=for-the-badge" alt="Spanish README" />
+  </a>
+</p>
+
 # 💡 Project C Piscine C 09
 
 This repository contains all the exercises for **C Piscine C 09**, focused on library creation, Makefile automation, and advanced string manipulation in the C language.
