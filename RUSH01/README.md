@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="es.README.md">
+    <img src="https://img.shields.io/badge/🌐%20Spanish-README-blue?style=for-the-badge" alt="Spanish README" />
+  </a>
+</p>
+
 # 🏙️ Rush-01: **Skyscraper Puzzle Solver** — 42 Project
 
 This project solves a 4×4 **Skyscraper** puzzle using backtracking.
