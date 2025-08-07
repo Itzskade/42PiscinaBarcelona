@@ -1,6 +1,8 @@
 # 💻 Proyecto C00 
 
-Este repositorio contiene los ejercicios del proyecto **C00**, uno de los primeros bloques del aprendizaje en lenguaje C durante la Piscina 42. El objetivo principal es dominar la sintaxis básica, la lógica de programación secuencial, y el uso correcto de funciones, bucles, condiciones y manejo de caracteres.
+Este repositorio contiene los ejercicios del proyecto **C00**, uno de los primeros bloques del aprendizaje en lenguaje C durante la Piscina 42.
+
+El objetivo principal es dominar la sintaxis básica, la lógica de programación secuencial, y el uso correcto de funciones, bucles, condiciones y manejo de caracteres.
 
 ---
 
