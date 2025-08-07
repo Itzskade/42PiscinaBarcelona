@@ -1,6 +1,8 @@
 # 💻 Project C00
 
-This repository contains the exercises for **Project C00**, one of the first blocks in learning the C language during the 42 Piscine. The main goal is to master basic syntax, sequential programming logic, and proper use of functions, loops, conditions, and character handling.
+This repository contains the exercises for **Project C00**, one of the first blocks in learning the C language during the 42 Piscine. 
+
+The main goal is to master basic syntax, sequential programming logic, and proper use of functions, loops, conditions, and character handling.
 
 ---
 
