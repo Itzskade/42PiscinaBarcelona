@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="es.README.md">
+    <img src="https://img.shields.io/badge/🌐%20Spanish-README-blue?style=for-the-badge" alt="Spanish README" />
+  </a>
+</p>
+
 # 🐚 Shell01 Project
 
 This repository contains all the exercises for the **Shell01** project, part of the technical journey during the 42 Piscine. The goal is to strengthen skills in Bash scripting, UNIX environment manipulation, text processing, file filtering, and algorithmic logic using terminal tools.
