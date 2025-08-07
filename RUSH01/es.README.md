@@ -1,4 +1,10 @@
- # 🏙️ Rush-01: **Skyscraper Puzzle Solver** — Proyecto 42
+<p align="right">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/🌐%20English-README-blue?style=for-the-badge" alt="English README" />
+  </a>
+</p>
+
+# 🏙️ Rush-01: **Skyscraper Puzzle Solver** — Proyecto 42
 
 Este proyecto resuelve un rompecabezas tipo **Skyscraper** de 4×4 usando backtracking.
 
