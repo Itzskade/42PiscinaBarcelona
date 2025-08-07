@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="es.README.md">
+    <img src="https://img.shields.io/badge/🌐%20Spanish-README-blue?style=for-the-badge" alt="Spanish README" />
+  </a>
+</p>
+
 # 💡 Project C05
 
 This repository contains the exercises for Project C05, focused on mathematical and recursive operations in the C language.
