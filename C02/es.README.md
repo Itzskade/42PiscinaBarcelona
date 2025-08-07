@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/🌐%20English-README-blue?style=for-the-badge" alt="English README" />
+  </a>
+</p>
+
 # 💡 Proyecto C02
 Este repositorio contiene los ejercicios del proyecto C02, centrado en la manipulación de cadenas de texto en lenguaje C. A través de funciones personalizadas, aprenderás a trabajar con caracteres, validar contenido, transformar strings y visualizar memoria.
 
